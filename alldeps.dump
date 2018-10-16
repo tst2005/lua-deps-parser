@@ -1,0 +1,1500 @@
+ libc6 (>= 2.7)
+ libc6 (>= 2.7)
+ acpid (>= 1.0.4)
+ acpid (>= 1.0.4)
+ libc6 (>= 2.15), init-system-helpers (>= 1.18~), lsb-base (>= 3.2-14), kmod
+ libc6 (>= 2.15), init-system-helpers (>= 1.18~), lsb-base (>= 3.2-14), kmod
+ passwd, debconf (>= 0.5) | debconf-2.0
+ perl-base (>= 5.6.0), passwd (>= 1:4.0.12), debconf | debconf-2.0
+ libc6 (>= 2.3)
+ libc6 (>= 2.3)
+ init-system-helpers (>= 1.18~), lsb-base, procps, perl, mime-support, apache2-bin (= 2.4.25-3+deb9u5), apache2-utils (= 2.4.25-3+deb9u5), apache2-data (= 2.4.25-3+deb9u5), perl:any
+ init-system-helpers (>= 1.18~), lsb-base, procps, perl, mime-support, apache2-bin (= 2.4.25-3+deb9u4), apache2-utils (= 2.4.25-3+deb9u4), apache2-data (= 2.4.25-3+deb9u4), perl:any
+ lsb-base, procps, perl, mime-support, apache2-bin (= 2.4.10-10+deb8u12), apache2-utils (>= 2.4), apache2-data (= 2.4.10-10+deb8u12)
+ libapr1 (>= 1.5.0), libaprutil1 (>= 1.5.0), libaprutil1-dbd-sqlite3 | libaprutil1-dbd-mysql | libaprutil1-dbd-odbc | libaprutil1-dbd-pgsql | libaprutil1-dbd-freetds, libaprutil1-ldap, libc6 (>= 2.14), libldap-2.4-2 (>= 2.4.7), liblua5.2-0, libnghttp2-14 (>= 1.14.0), libpcre3, libssl1.0.2 (>= 1.0.2d), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), perl:any
+ libapr1 (>= 1.5.0), libaprutil1 (>= 1.5.0), libaprutil1-dbd-sqlite3 | libaprutil1-dbd-mysql | libaprutil1-dbd-odbc | libaprutil1-dbd-pgsql | libaprutil1-dbd-freetds, libaprutil1-ldap, libc6 (>= 2.14), libldap-2.4-2 (>= 2.4.7), liblua5.2-0, libnghttp2-14 (>= 1.14.0), libpcre3, libssl1.0.2 (>= 1.0.2d), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), perl:any
+ libapr1 (>= 1.5.0), libaprutil1 (>= 1.5.0), libaprutil1-dbd-sqlite3 | libaprutil1-dbd-mysql | libaprutil1-dbd-odbc | libaprutil1-dbd-pgsql | libaprutil1-dbd-freetds, libaprutil1-ldap, libc6 (>= 2.14), libldap-2.4-2 (>= 2.4.7), liblua5.1-0, libpcre3 (>= 1:8.35), libssl1.0.0 (>= 1.0.1), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), perl
+ apache2 (= 2.4.10-10+deb8u12)
+ libapr1 (>= 1.4.8-2~), libaprutil1 (>= 1.5.0), libc6 (>= 2.14), libssl1.0.2 (>= 1.0.2d)
+ libapr1 (>= 1.4.8-2~), libaprutil1 (>= 1.5.0), libc6 (>= 2.14), libssl1.0.2 (>= 1.0.2d)
+ libapr1 (>= 1.4.8-2~), libaprutil1 (>= 1.5.0), libc6 (>= 2.14), libssl1.0.0 (>= 1.0.1)
+ libc6 (>= 2.14)
+ libc6 (>= 2.5-5)
+ libc6 (>= 2.17), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), python3:any, libapparmor-perl, lsb-base (>= 3.0-6), debconf
+ libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0, python3, libapparmor-perl, lsb-base, initramfs-tools, debconf
+ adduser, gpgv | gpgv2 | gpgv1, debian-archive-keyring, init-system-helpers (>= 1.18~), libapt-pkg5.0 (>= 1.3~rc2), libc6 (>= 2.15), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+ libapt-pkg4.12 (>= 1.0.9.8.4), libc6 (>= 2.15), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9), debian-archive-keyring, gnupg
+ libapt-pkg5.0 (>= 1.3~rc2), libc6 (>= 2.14), libcurl3-gnutls (>= 7.16.2), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+ libapt-pkg4.12 (>= 1.0.9.8.4), libc6 (>= 2.14), libcurl3-gnutls (>= 7.16.2), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9)
+ apt (= 1.4.8), libapt-inst2.0 (>= 1.0.5), libapt-pkg5.0 (>= 1.3~rc2), libc6 (>= 2.14), libdb5.3, libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+ apt, libapt-inst1.5 (>= 0.9.15.4), libapt-pkg4.12 (>= 0.9.16), libc6 (>= 2.14), libdb5.3, libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9)
+ libc6 (>= 2.14), libncurses5 (>= 6), libtinfo5 (>= 6), zlib1g (>= 1:1.1.4), init-system-helpers (>= 1.18~), lsb-base (>= 3.2-14)
+ libc6 (>= 2.7), libncurses5 (>= 5.5-5~), libtinfo5, zlib1g (>= 1:1.1.4), lsb-base (>= 3.2-14)
+ libc6 (>= 2.3.5-1)
+ xz-utils
+ xz-utils
+ libc6 (>= 2.14), libgd3 (>= 2.1.0~alpha~), libgeoip1, libpcre3, zlib1g (>= 1:1.2.3.3)
+ libc6 (>= 2.14), libgd3 (>= 2.1.0~alpha~), libgeoip1, libpcre3 (>= 8.10), zlib1g (>= 1:1.2.3.3)
+ libc6 (>= 2.8), libdebconfclient0 (>= 0.145)
+ libc6 (>= 2.8), libdebconfclient0 (>= 0.145)
+ base-files (>= 2.1.12), debianutils (>= 2.15)
+ base-files (>= 2.1.12), debianutils (>= 2.15)
+ bash (>= 3.2)
+ bash (>= 3.2)
+ libc6 (>= 2.14), libreadline7 (>= 6.0), libtinfo5 (>= 6)
+ libc6 (>= 2.14), libreadline6 (>= 6.0), libtinfo5
+ libbind9-140 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libc6 (>= 2.14), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns162 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libgeoip1, libgssapi-krb5-2 (>= 1.6.dfsg.2), libirs141, libisc160 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libisccc140 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libisccfg140 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres141 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libssl1.0.2 (>= 1.0.2d), libxml2 (>= 2.7.4), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), netbase, adduser, lsb-base (>= 3.2-14), bind9utils (= 1:9.10.3.dfsg.P4-12.3+deb9u4), net-tools
+ libbind9-90 (= 1:9.9.5.dfsg-9+deb8u16), libc6 (>= 2.14), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100 (= 1:9.9.5.dfsg-9+deb8u16), libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95 (= 1:9.9.5.dfsg-9+deb8u16), libisccc90 (= 1:9.9.5.dfsg-9+deb8u16), libisccfg90 (= 1:9.9.5.dfsg-9+deb8u16), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres90 (= 1:9.9.5.dfsg-9+deb8u16), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.7.4), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), netbase, adduser, lsb-base (>= 3.2-14), bind9utils (= 1:9.9.5.dfsg-9+deb8u16), net-tools
+ libbind9-90 (= 1:9.9.5.dfsg-9+deb8u15), libc6 (>= 2.14), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100 (= 1:9.9.5.dfsg-9+deb8u15), libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95 (= 1:9.9.5.dfsg-9+deb8u15), libisccc90 (= 1:9.9.5.dfsg-9+deb8u15), libisccfg90 (= 1:9.9.5.dfsg-9+deb8u15), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres90 (= 1:9.9.5.dfsg-9+deb8u15), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.7.4), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), netbase, adduser, lsb-base (>= 3.2-14), bind9utils (= 1:9.9.5.dfsg-9+deb8u15), net-tools
+ libbind9-90 (= 1:9.9.5.dfsg-9+deb8u14), libc6 (>= 2.14), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100 (= 1:9.9.5.dfsg-9+deb8u14), libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95 (= 1:9.9.5.dfsg-9+deb8u14), libisccc90 (= 1:9.9.5.dfsg-9+deb8u14), libisccfg90 (= 1:9.9.5.dfsg-9+deb8u14), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres90 (= 1:9.9.5.dfsg-9+deb8u14), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.7.4), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), netbase, adduser, lsb-base (>= 3.2-14), bind9utils (= 1:9.9.5.dfsg-9+deb8u14), net-tools
+ libbind9-140 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns162 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libgeoip1, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc160 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libisccfg140 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres141 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libssl1.0.2 (>= 1.0.2d), libxml2 (>= 2.6.27)
+ libbind9-90 (= 1:9.9.5.dfsg-9+deb8u16), libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100 (= 1:9.9.5.dfsg-9+deb8u16), libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95 (= 1:9.9.5.dfsg-9+deb8u16), libisccfg90 (= 1:9.9.5.dfsg-9+deb8u16), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres90 (= 1:9.9.5.dfsg-9+deb8u16), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libbind9-90 (= 1:9.9.5.dfsg-9+deb8u15), libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100 (= 1:9.9.5.dfsg-9+deb8u15), libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95 (= 1:9.9.5.dfsg-9+deb8u15), libisccfg90 (= 1:9.9.5.dfsg-9+deb8u15), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres90 (= 1:9.9.5.dfsg-9+deb8u15), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libbind9-90 (= 1:9.9.5.dfsg-9+deb8u14), libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100 (= 1:9.9.5.dfsg-9+deb8u14), libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95 (= 1:9.9.5.dfsg-9+deb8u14), libisccfg90 (= 1:9.9.5.dfsg-9+deb8u14), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres90 (= 1:9.9.5.dfsg-9+deb8u14), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libbind9-140, libc6 (>= 2.14), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns162, libgeoip1, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc160, libisccc140, libisccfg140, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.2 (>= 1.0.2d), libxml2 (>= 2.6.27), python3
+ libbind9-90, libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95, libisccc90, libisccfg90, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27), python, python-argparse
+ libbind9-90, libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95, libisccc90, libisccfg90, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27), python, python-argparse
+ libbind9-90, libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95, libisccc90, libisccfg90, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27), python, python-argparse
+ libc6 (>= 2.14), zlib1g (>= 1:1.2.0)
+ libc6 (>= 2.14), zlib1g (>= 1:1.2.0)
+ base-files (>= 2.2.0), default-mta | mail-transport-agent, libbsd0 (>= 0.2.0), libc6 (>= 2.17), liblockfile1 (>= 1.0)
+ base-files (>= 2.2.0), default-mta | mail-transport-agent, libbsd0 (>= 0.2.0), libc6 (>= 2.14), liblockfile1 (>= 1.0)
+ libbsd0 (>= 0.2.0), libc6 (>= 2.14), libncurses5 (>= 6), libtinfo5 (>= 6), bsdutils (>= 3.0-0), debianutils (>= 1.8)
+ libc6 (>= 2.14), libncurses5 (>= 5.5-5~), libtinfo5, bsdutils (>= 3.0-0), debianutils (>= 1.8)
+ e2fslibs (>= 1.42), libblkid1 (>= 2.17.2), libc6 (>= 2.8), libcomerr2 (>= 1.01), liblzo2-2, libuuid1 (>= 2.16), zlib1g (>= 1:1.2.0)
+ e2fslibs (>= 1.42), libblkid1 (>= 2.17.2), libc6 (>= 2.8), libcomerr2 (>= 1.01), liblzo2-2, libuuid1 (>= 2.16), zlib1g (>= 1:1.2.0)
+ btrfs-progs
+ btrfs-progs
+ e2fslibs (>= 1.42), libblkid1 (>= 2.17.2), libc6 (>= 2.7), libcomerr2 (>= 1.01), liblzo2-2, libuuid1 (>= 2.16), zlib1g (>= 1:1.2.0)
+ libc6-dev | libc-dev, gcc (>= 4:6.3), g++ (>= 4:6.3), make, dpkg-dev (>= 1.17.11)
+ libc6-dev | libc-dev, gcc (>= 4:4.9.1), g++ (>= 4:4.9.1), make, dpkg-dev (>= 1.17.11)
+ libc6 (>= 2.16)
+ libc6 (>= 2.16)
+ libc6 (>= 2.16)
+ libbz2-1.0 (= 1.0.6-8.1), libc6 (>= 2.14)
+ libbz2-1.0 (= 1.0.6-7+b3), libc6 (>= 2.14)
+ openssl (>= 1.0.0), debconf (>= 0.5) | debconf-2.0
+ openssl (>= 1.0.0), debconf (>= 0.5) | debconf-2.0
+ openssl (>= 1.0.0), debconf (>= 0.5) | debconf-2.0
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libc6 (>= 2.14), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.15), libcgroup1 (>= 0.40~rc1)
+ libc6 (>= 2.15), libcgroup1 (>= 0.40~rc1)
+ libc6 (>= 2.15), libcgroup1 (>= 0.40~rc1)
+ perl
+ libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0, binutils, net-tools, debconf, procps, openssh-client
+ libc6 (>= 2.7), debconf (>= 0.5) | debconf-2.0, binutils, net-tools, debconf, procps, openssh-client
+ libc6 (>= 2.14), libmnl0 (>= 1.0.3-4~), libnetfilter-conntrack3, libnfnetlink0
+ libc6 (>= 2.14), libmnl0 (>= 1.0.3-4~), libnetfilter-conntrack3, libnfnetlink0
+ console-setup-linux | console-setup-freebsd | hurd, xkb-data (>= 0.9), keyboard-configuration (= 1.164)
+ console-setup-linux | console-setup-freebsd, xkb-data (>= 0.9), keyboard-configuration (= 1.123)
+ kbd (>= 0.99-12) | console-tools (>= 1:0.2.3-16), keyboard-configuration (= 1.164), init-system-helpers (>= 1.18~), init-system-helpers (>= 1.29~) | initscripts
+ kbd (>= 0.99-12) | console-tools (>= 1:0.2.3-16), keyboard-configuration (= 1.123)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ cpp-6 (>= 6.3.0-9~)
+ cpp-4.9 (>= 4.9.2-1~)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.14), libcloog-isl4 (>= 0.17), libgmp10 (>= 2:5.0.1~), libisl10 (>= 0.10), libmpc3, libmpfr4 (>= 3.1.2), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.7), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), init-system-helpers (>= 1.18~), debianutils (>= 1.7), adduser, lsb-base (>= 3.0-10), libpam-runtime (>= 1.0.1-11)
+ libc6 (>= 2.7), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), init-system-helpers (>= 1.18~), debianutils (>= 1.7), adduser, lsb-base (>= 3.0-10), libpam-runtime (>= 1.0.1-11)
+ libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5)
+ libc6 (>= 2.7-1), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.15), debconf (>= 0.5) | debconf-2.0, dmsetup, cryptsetup-bin (>= 2:1.6.0)
+ libc6 (>= 2.15), debconf (>= 0.5) | debconf-2.0, dmsetup, cryptsetup-bin (>= 2:1.6.0)
+ libc6 (>= 2.15), libcryptsetup4 (>= 2:1.6), libpopt0 (>= 1.14), libuuid1 (>= 2.16)
+ libc6 (>= 2.15), libcryptsetup4 (>= 2:1.6), libpopt0 (>= 1.14)
+ libc6 (>= 2.17), libcurl3 (= 7.52.1-5+deb9u7), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcurl3 (= 7.52.1-5+deb9u6), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcurl3 (= 7.38.0-4+deb8u12), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcurl3 (= 7.38.0-4+deb8u11), zlib1g (>= 1:1.1.4)
+ debianutils (>= 2.15), dpkg (>= 1.15.0)
+ debianutils (>= 2.15), dpkg (>= 1.15.0)
+ libc6 (>= 2.4)
+ libc6 (>= 2.2.5)
+ debconf (= 1.5.61), liblocale-gettext-perl, libtext-iconv-perl, libtext-wrapi18n-perl, libtext-charwidth-perl
+ debconf (= 1.5.56+deb8u1), liblocale-gettext-perl, libtext-iconv-perl, libtext-wrapi18n-perl, libtext-charwidth-perl
+ debconf (= 1.5.61)
+ debconf (= 1.5.56+deb8u1)
+ gpgv
+ gpgv
+ sensible-utils
+ sensible-utils
+ wget
+ wget
+ dpkg (>= 1.16.3), libdpkg-perl, libfile-fnmatch-perl, perl (>= 5.8.0-3), ucf (>= 0.28), perl:any
+ perl (>= 5.8.0-3), ucf (>= 0.28), libfile-fnmatch-perl, libdpkg-perl, dpkg (>= 1.16.3)
+ python3:any (>= 3.2~), python3-apt, python3-debian
+ apt, python, libapt-pkg4.12 (>= 0.8.0), libc6 (>= 2.14), libept1.4.12, libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.6), libxapian22, zlib1g (>= 1:1.1.4)
+ gpgv
+ python3:any (>= 3.3.2-2~)
+ python3:any (>= 3.3.2-2~)
+ libc6 (>= 2.15), libncursesw5 (>= 6), libtinfo5 (>= 6), debianutils (>= 1.6)
+ libc6 (>= 2.15), libncursesw5 (>= 5.6+20070908), libtinfo5, debianutils (>= 1.6)
+ perl, dnsutils
+ libc6 (>= 2.15), libdevmapper-event1.02.1 (>= 2:1.02.110), libdevmapper1.02.1 (>= 2:1.02.113), liblvm2cmd2.02 (>= 2.02.168), init-system-helpers (>= 1.18~)
+ libc6 (>= 2.15), libdevmapper-event1.02.1 (>= 2:1.02.74), libdevmapper1.02.1 (>= 2:1.02.90), liblvm2cmd2.02 (>= 2.02.111), init-system-helpers (>= 1.18~)
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libc6 (>= 2.14), libdevmapper1.02.1 (>= 2:1.02.131)
+ libc6 (>= 2.14), libdevmapper1.02.1 (>= 2:1.02.90), util-linux (>> 2.16)
+ libbind9-140 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns162 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libgeoip1, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc160 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libisccfg140 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres141 (= 1:9.10.3.dfsg.P4-12.3+deb9u4), libssl1.0.2 (>= 1.0.2d), libxml2 (>= 2.6.27), bind9-host | host
+ libbind9-90 (= 1:9.9.5.dfsg-9+deb8u16), libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100 (= 1:9.9.5.dfsg-9+deb8u16), libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95 (= 1:9.9.5.dfsg-9+deb8u16), libisccfg90 (= 1:9.9.5.dfsg-9+deb8u16), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres90 (= 1:9.9.5.dfsg-9+deb8u16), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27), bind9-host | host
+ libbind9-90 (= 1:9.9.5.dfsg-9+deb8u15), libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100 (= 1:9.9.5.dfsg-9+deb8u15), libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95 (= 1:9.9.5.dfsg-9+deb8u15), libisccfg90 (= 1:9.9.5.dfsg-9+deb8u15), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres90 (= 1:9.9.5.dfsg-9+deb8u15), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27), bind9-host | host
+ libbind9-90 (= 1:9.9.5.dfsg-9+deb8u14), libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100 (= 1:9.9.5.dfsg-9+deb8u14), libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95 (= 1:9.9.5.dfsg-9+deb8u14), libisccfg90 (= 1:9.9.5.dfsg-9+deb8u14), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), liblwres90 (= 1:9.9.5.dfsg-9+deb8u14), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27), bind9-host | host
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libc6 (>= 2.14), libudev1 (>= 183)
+ libc6 (>= 2.14)
+ libbz2-1.0, libc6 (>= 2.17), libexttextcat-2.0-0 (>= 3.3.0), liblz4-1 (>= 0.0~r113), liblzma5 (>= 5.1.1alpha+20120614), libpam0g (>= 0.99.7.1), libssl1.1 (>= 1.1.0), libstemmer0d (>= 0+svn527), libwrap0 (>= 7.6-4~), zlib1g (>= 1:1.1.4), init-system-helpers (>= 1.18~), libpam-runtime (>= 0.76-13.1), openssl, adduser, ucf (>= 2.0020), lsb-base
+ libbz2-1.0, libc6 (>= 2.17), liblzma5 (>= 5.1.1alpha+20120614), libpam0g (>= 0.99.7.1), libssl1.0.0 (>= 1.0.0), libwrap0 (>= 7.6-4~), zlib1g (>= 1:1.1.4), init-system-helpers (>= 1.18~), libpam-runtime (>= 0.76-13.1), openssl, adduser, ucf (>= 2.0020)
+ dovecot-core (= 1:2.2.27-3+deb9u2), libbz2-1.0, libc6 (>= 2.14), liblz4-1 (>= 0.0~r113), liblzma5 (>= 5.1.1alpha+20120614), zlib1g (>= 1:1.1.4), ucf (>= 2.0020)
+ dovecot-core (= 1:2.2.13-12~deb8u4), libbz2-1.0, libc6 (>= 2.4), liblzma5 (>= 5.1.1alpha+20120614), zlib1g (>= 1:1.1.4), ucf (>= 2.0020)
+ tar (>= 1.28-1)
+ perl:any, libdpkg-perl (= 1.18.25), tar (>= 1.28-1), bzip2, xz-utils, patch (>= 2.7), make, binutils
+ libdpkg-perl (= 1.17.27), bzip2, xz-utils, patch (>= 2.7), make, binutils, base-files (>= 5.0.0)
+ libdpkg-perl (= 1.17.26), bzip2, xz-utils, patch (>= 2.7), make, binutils, base-files (>= 5.0.0)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ git (>= 1:1.7) | mercurial | bzr (>= 1.5~) | darcs, debconf (>= 0.5) | debconf-2.0, python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ git (>= 1:1.7) | mercurial | bzr (>= 1.5~) | darcs, debconf (>= 0.5) | debconf-2.0
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libexiv2-14 (= 0.25-3.1+deb9u1), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+ libc6 (>= 2.14), libexiv2-13 (= 0.24-4.1+deb8u1), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9)
+ libc6 (>= 2.14), libexiv2-13 (= 0.24-4.1), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9)
+ python3:any (>= 3.3.2-2~), init-system-helpers (>= 1.18~), lsb-base (>= 2.0-7)
+ python:any (>= 2.6.6-7~), lsb-base (>= 2.0-7)
+ libfakeroot (>= 1.21-3.1), libc6 (>= 2.15)
+ libc6 (>= 2.14), libfakeroot (>= 1.20.2-1)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ debconf (>= 1.2.0), iptables (>= 1.3), lsb-base (>= 3.0-6), perl (>= 5.6), init-system-helpers (>= 1.18~)
+ debconf (>= 1.2.0), iptables (>= 1.3), lsb-base (>= 3.0-6), perl (>= 5.6)
+ libc6 (>= 2.15), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.14+dfsg), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.13~alpha1+dfsg), libssl1.1 (>= 1.1.0), debianutils (>= 1.7), adduser (>= 3.34), lsb-base (>= 3.2-13)
+ libc6 (>= 2.15), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.10+dfsg~), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), debianutils (>= 1.7), adduser (>= 3.34), lsb-base (>= 3.2-13)
+ libc6 (>= 2.4), libmagic1 (= 1:5.30-1+deb9u2), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.4), libmagic1 (= 1:5.30-1+deb9u1), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.4), libmagic1 (= 1:5.22+15-2+deb8u4), zlib1g (>= 1:1.1.4)
+ firehol-common (= 3.1.1+ds-1), lsb-base
+ iptables (>= 1.4.14), iproute2, bash (>= 4.2), lsb-base
+ libapparmor1 (>= 2.6~devel), libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ debconf (>= 0.5) | debconf-2.0, ucf (>= 0.29), fonts-dejavu-core | ttf-bitstream-vera | fonts-liberation | fonts-freefont
+ debconf (>= 0.5) | debconf-2.0, ucf (>= 0.29), fonts-dejavu-core | ttf-bitstream-vera | fonts-liberation | fonts-freefont
+ libc6 (>= 2.17), libidn11 (>= 1.13), liblua5.1-0, libssl1.0.2 (>= 1.0.2d), libtcl8.6 (>= 8.6.0), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.15), libfko3 (= 2.6.9-1+b1), libpcap0.8 (>= 0.9.8), iptables, lsb-base (>= 3.0-6)
+ libc6 (>= 2.15), libfko2 (= 2.6.0-2.1+b1), libpcap0.8 (>= 0.9.8), iptables, lsb-base (>= 3.0-6)
+ cpp (>= 4:6.3.0-4), gcc (>= 4:6.3.0-4), g++-6 (>= 6.3.0-9~), gcc-6 (>= 6.3.0-9~)
+ cpp (>= 4:4.9.2-2), gcc (>= 4:4.9.2-2), g++-4.9 (>= 4.6.4-1~), gcc-4.9 (>= 4.6.4-1~)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), gcc-4.9 (= 4.9.2-10+deb8u1), libstdc++-4.9-dev (= 4.9.2-10+deb8u1), libc6 (>= 2.14), libcloog-isl4 (>= 0.17), libgmp10 (>= 2:5.0.1~), libisl10 (>= 0.10), libmpc3, libmpfr4 (>= 3.1.2), zlib1g (>= 1:1.1.4)
+ cpp (>= 4:6.3.0-4), gcc-6 (>= 6.3.0-9~)
+ cpp (>= 4:4.9.2-2), gcc-4.9 (>= 4.9.2-1~)
+ cpp-4.9 (= 4.9.2-10+deb8u1), gcc-4.9-base (= 4.9.2-10+deb8u1), binutils (>= 2.25), libgcc-4.9-dev (= 4.9.2-10+deb8u1), libc6 (>= 2.14), libcloog-isl4 (>= 0.17), libgmp10 (>= 2:5.0.1~), libisl10 (>= 0.10), libmpc3, libmpfr4 (>= 3.1.2), zlib1g (>= 1:1.1.4)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python (>= 2.7), python (<< 2.8)
+ libc6 (>= 2.17), libcroco3 (>= 0.6.2), libglib2.0-0 (>= 2.12.0), libgomp1 (>= 4.9), libncurses5 (>= 6), libtinfo5 (>= 6), libunistring0, libxml2 (>= 2.9.1), gettext-base, dpkg (>= 1.15.4) | install-info
+ libc6 (>= 2.17), libcroco3 (>= 0.6.2), libglib2.0-0 (>= 2.12.0), libgomp1 (>= 4.9), libncurses5 (>= 5.5-5~), libtinfo5, libunistring0, libxml2 (>= 2.7.4), gettext-base, dpkg (>= 1.15.4) | install-info
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libasprintf0c2 (>= 0.18.1.1-6)
+ libc6 (>= 2.16), libcurl3-gnutls (>= 7.16.2), libexpat1 (>= 2.0.1), libpcre3, zlib1g (>= 1:1.2.0), perl, liberror-perl, git-man (>> 1:2.11.0), git-man (<< 1:2.11.0-.)
+ libc6 (>= 2.16), libcurl3-gnutls (>= 7.16.2), libexpat1 (>= 2.0.1), libpcre3, zlib1g (>= 1:1.2.0), perl, liberror-perl, git-man (>> 1:2.11.0), git-man (<< 1:2.11.0-.)
+ libc6 (>= 2.16), libcurl3-gnutls (>= 7.16.2), libexpat1 (>= 2.0.1), libpcre3 (>= 1:8.35), zlib1g (>= 1:1.2.0), perl-modules, liberror-perl, git-man (>> 1:2.1.4), git-man (<< 1:2.1.4-.)
+ libc6 (>= 2.16), libcurl3-gnutls (>= 7.16.2), libexpat1 (>= 2.0.1), libpcre3 (>= 1:8.35), zlib1g (>= 1:1.2.0), perl-modules, liberror-perl, git-man (>> 1:2.1.4), git-man (<< 1:2.1.4-.)
+ libc6 (>= 2.14), libffi6 (>= 3.0.4), libgmp10, libmagic1 (>= 5.12), libsqlite3-0 (>= 3.6.0), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), git (>= 1:1.8.1), rsync, wget, curl, openssh-client (>= 1:5.6p1)
+ libc6 (>= 2.14), libffi6 (>= 3.0.4), libgmp10, libmagic1 (>= 5.12), libsqlite3-0 (>= 3.6.0), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), git (>= 1:1.8.1), rsync, wget, curl, openssh-client (>= 1:5.6p1)
+ libc6 (>= 2.14), libffi6 (>= 3.0.4), libgmp10, libgnutls-deb0-28 (>= 3.3.0), libgsasl7 (>= 1.4), libicu52 (>= 52~m1-1~), libidn11 (>= 1.13), libxml2 (>= 2.7.4), libyaml-0-2, zlib1g (>= 1:1.1.4), git (>= 1:2.0), rsync, wget, curl, openssh-client (>= 1:5.6p1)
+ libc6 (>= 2.14), libffi6 (>= 3.0.4), libgmp10, libgnutls-deb0-28 (>= 3.3.0), libgsasl7 (>= 1.4), libicu52 (>= 52~m1-1~), libidn11 (>= 1.13), libxml2 (>= 2.7.4), libyaml-0-2, zlib1g (>= 1:1.1.4), git (>= 1:2.0), rsync, wget, curl, openssh-client (>= 1:5.6p1)
+ git | git-core
+ git | git-core
+ git, gnupg | gnupg2
+ git, gnupg | gnupg2
+ git (>> 1:2.11.0), git (<< 1:2.11.0-.), libsvn-perl, libyaml-perl, libterm-readkey-perl
+ git (>> 1:2.11.0), git (<< 1:2.11.0-.), libsvn-perl, libyaml-perl, libterm-readkey-perl
+ git (>> 1:2.1.4), git (<< 1:2.1.4-.), libsvn-perl, libyaml-perl, libterm-readkey-perl
+ git (>> 1:2.1.4), git (<< 1:2.1.4-.), libsvn-perl, libyaml-perl, libterm-readkey-perl
+ git (>= 1:1.7.0.4) | git-core (>= 1:1.6.2), perl (>= 5.6.0-16), openssh-server, debconf (>= 0.5) | debconf-2.0, adduser
+ gnupg-agent (= 2.1.18-8~deb9u2), libassuan0 (>= 2.0.1), libbz2-1.0, libc6 (>= 2.15), libgcrypt20 (>= 1.7.0), libgpg-error0 (>= 1.14), libksba8 (>= 1.3.4), libreadline7 (>= 6.0), libsqlite3-0 (>= 3.7.15), zlib1g (>= 1:1.1.4)
+ gpgv, libbz2-1.0, libc6 (>= 2.15), libreadline6 (>= 6.0), libusb-0.1-4 (>= 2:0.1.12), zlib1g (>= 1:1.1.4)
+ pinentry-curses | pinentry, libassuan0 (>= 2.3.0), libc6 (>= 2.15), libgcrypt20 (>= 1.7.0), libgpg-error0 (>= 1.25), libnpth0 (>= 0.90), libreadline7 (>= 6.0)
+ pinentry-gtk2 | pinentry-curses | pinentry, libassuan0 (>= 2.0.2), libc6 (>= 2.15), libgcrypt20 (>= 1.6.1), libgpg-error0 (>= 1.14), libpth20 (>= 2.0.7), libreadline6 (>= 6.0)
+ gnupg (>= 2.1.18-8~deb9u2)
+ dpkg (>= 1.15.4) | install-info, gnupg-agent (= 2.0.26-6+deb8u2), libassuan0 (>= 2.0.1), libbz2-1.0, libc6 (>= 2.15), libcurl3-gnutls (>= 7.16.2), libgcrypt20 (>= 1.6.1), libgpg-error0 (>= 1.14), libksba8 (>= 1.2.0), libreadline6 (>= 6.0), zlib1g (>= 1:1.1.4)
+ libbz2-1.0, libc6 (>= 2.14), libgcrypt20 (>= 1.7.0), libgpg-error0 (>= 1.14), zlib1g (>= 1:1.1.4)
+ libbz2-1.0, libc6 (>= 2.14), zlib1g (>= 1:1.1.4)
+ dpkg (>= 1.15.4) | install-info
+ dpkg (>= 1.15.4) | install-info
+ libc6 (>= 2.14), libgcc1 (>= 1:4.0), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.14), libdevmapper1.02.1 (>= 2:1.02.36), libfreetype6 (>= 2.2.1), libfuse2 (>= 2.8.4-1.4), liblzma5 (>= 5.1.1alpha+20120614), gettext-base
+ libc6 (>= 2.3), libdevmapper1.02.1 (>= 2:1.02.36), libfreetype6 (>= 2.2.1), libfuse2 (>= 2.8.4-1.4), liblzma5 (>= 5.1.1alpha+20120614), libpng12-0 (>= 1.2.13-4), zlib1g (>= 1:1.1.4), gettext-base
+ debconf (>= 0.5) | debconf-2.0, grub-common (= 2.02~beta3-5), grub2-common (= 2.02~beta3-5), grub-pc-bin (= 2.02~beta3-5), ucf
+ debconf (>= 0.5) | debconf-2.0, grub-common (= 2.02~beta2-22+deb8u1), grub2-common (= 2.02~beta2-22+deb8u1), grub-pc-bin (= 2.02~beta2-22+deb8u1), ucf
+ libc6 (>= 2.14), libdevmapper1.02.1 (>= 2:1.02.36), grub-common (= 2.02~beta3-5)
+ libc6 (>= 2.14), libdevmapper1.02.1 (>= 2:1.02.36), grub-common (= 2.02~beta2-22+deb8u1)
+ grub-common (= 2.02~beta3-5), dpkg (>= 1.15.4) | install-info, libc6 (>= 2.14), libdevmapper1.02.1 (>= 2:1.02.36), liblzma5 (>= 5.1.1alpha+20120614)
+ grub-common (= 2.02~beta2-22+deb8u1), dpkg (>= 1.15.4) | install-info, libc6 (>= 2.3), libdevmapper1.02.1 (>= 2:1.02.36), liblzma5 (>= 5.1.1alpha+20120614)
+ dpkg (>= 1.15.4) | install-info
+ dpkg (>= 1.15.4) | install-info
+ libc6 (>= 2.15), debconf (>= 0.5) | debconf-2.0, lsb-base (>= 3.0-3)
+ libc6 (>= 2.4), debconf (>= 0.5) | debconf-2.0, lsb-base (>= 3.0-3)
+ python:any (>= 2.6.6-7~), git, mercurial
+ libc6 (>= 2.15), libncursesw5 (>= 6), libtinfo5 (>= 6)
+ libc6 (>= 2.15), libncursesw5 (>= 5.6+20070908), libtinfo5
+ libc6 (>= 2.3.2)
+ libc6 (>= 2.7), libncurses5 (>= 6), libpcap0.8 (>= 0.9.8), libtinfo5 (>= 6)
+ libc6 (>= 2.14), libncurses5 (>= 5.5-5~), libpcap0.8 (>= 0.9.8), libtinfo5
+ libc6 (>= 2.14), init-system-helpers (>= 1.18~), lsb-base, adduser, iproute2
+ iproute2 | iproute (>= 20071016-1), libc6 (>= 2.14), lsb-base (>= 4.1+Debian3), initscripts (>= 2.88dsf-25), adduser
+ imagemagick-6.q16 (>= 8:6.9.2.10+dfsg-2~)
+ imagemagick-6.q16 (>= 8:6.9.2.10+dfsg-2~)
+ imagemagick-6.q16 (= 8:6.8.9.9-5+deb8u14)
+ imagemagick-6.q16 (= 8:6.8.9.9-5+deb8u12)
+ libc6 (>= 2.4), libmagickcore-6.q16-3 (>= 8:6.9.6.8), libmagickwand-6.q16-3 (>= 8:6.9.6.8), hicolor-icon-theme
+ libc6 (>= 2.4), libmagickcore-6.q16-3 (>= 8:6.9.6.8), libmagickwand-6.q16-3 (>= 8:6.9.6.8), hicolor-icon-theme
+ libc6 (>= 2.4), libmagickcore-6.q16-2 (>= 8:6.8.8.2), libmagickwand-6.q16-2 (>= 8:6.8.8.2), hicolor-icon-theme
+ libc6 (>= 2.4), libmagickcore-6.q16-2 (>= 8:6.8.8.2), libmagickwand-6.q16-2 (>= 8:6.8.8.2), hicolor-icon-theme
+ imagemagick-6-common (= 8:6.9.7.4+dfsg-11+deb9u6)
+ imagemagick-6-common (= 8:6.9.7.4+dfsg-11+deb9u3)
+ python:any
+ python
+ init-system-helpers (>= 1.25)
+ perl-base (>= 5.20.1-3)
+ perl-base (>= 5.20.1-3)
+ initramfs-tools-core (= 0.130), linux-base
+ klibc-utils (>= 2.0-1~), cpio, kmod | module-init-tools, udev, klibc-utils (>= 2.0.4-1.2~) | busybox (>= 1:1.01-3) | busybox-initramfs | busybox-static
+ mount (>= 2.11x-1), debianutils (>= 4), lsb-base (>= 3.2-14), sysvinit-utils (>= 2.88dsf-59.5), sysv-rc | file-rc | openrc, coreutils (>= 5.93)
+ mount (>= 2.11x-1), debianutils (>= 4), lsb-base (>= 3.2-14), sysvinit-utils (>= 2.88dsf-50), sysv-rc | file-rc, coreutils (>= 5.93)
+ libc6 (>= 2.14)
+ libc6 (>= 2.7)
+ python3:any (>= 3.3.2-2~)
+ python (>= 2.7), python (<< 2.8)
+ perl
+ perl
+ libc6 (>= 2.15), libgcc1 (>= 1:3.0), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.15), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.15), libfreeipmi16 (>= 1.1.5), libncurses5 (>= 6), libreadline7 (>= 6.0), libssl1.0.2 (>= 1.0.2d), libtinfo5 (>= 6), lsb-base (>= 3.0-6)
+ libc6 (>= 2.15), libncurses5 (>= 5.5-5~), libreadline6 (>= 6.0), libssl1.0.0 (>= 1.0.0), libtinfo5, lsb-base
+ iproute2
+ iproute2
+ libc6 (>= 2.14), libdb5.3, libelf1 (>= 0.131), libmnl0 (>= 1.0.3-4~), libselinux1 (>= 2.0.15)
+ libc6 (>= 2.14), libdb5.3, libselinux1 (>= 2.0.15)
+ libip4tc0 (= 1.6.0+snapshot20161117-6), libip6tc0 (= 1.6.0+snapshot20161117-6), libiptc0 (= 1.6.0+snapshot20161117-6), libxtables12 (= 1.6.0+snapshot20161117-6), libc6 (>= 2.14), libnetfilter-conntrack3, libnfnetlink0
+ libc6 (>= 2.15), libnfnetlink0, libxtables10 (= 1.4.21-2+b1)
+ libc6 (>= 2.14), libcap2 (>= 1:2.10), libidn11 (>= 1.13), libnettle6
+ libc6 (>= 2.14), libcap2 (>= 1:2.10), libgnutls-openssl27 (>= 3.0-0)
+ libc6 (>= 2.14), libgeoip1
+ libc6 (>= 2.14), libgeoip1
+ libc6 (>= 2.14), libcap-ng0, libglib2.0-0 (>= 2.28.0), libnuma1 (>= 2.0.11), libsystemd0, debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), lsb-base (>= 3.1)
+ libc6 (>= 2.4), libcap-ng0, libglib2.0-0 (>= 2.28.0), libnuma1, debconf (>= 0.5) | debconf-2.0, lsb-base (>= 3.1)
+ libc6 (>= 2.15), libglib2.0-0 (>= 2.35.9), libperl5.24 (>= 5.24.0), libssl1.1 (>= 1.1.0), libtinfo5 (>= 6), perl (>= 5.24.1-3+deb9u2), perlapi-5.24.1, perl-base (>= 5.8.1)
+ libc6 (>= 2.14), libglib2.0-0 (>= 2.35.9), libncurses5 (>= 5.5-5~), libperl5.20 (>= 5.20.2), libssl1.0.0 (>= 1.0.0), libtinfo5, libval14, perl (>= 5.20.2-3+deb8u9), perlapi-5.20.2, perl-base (>= 5.8.1)
+ libc6 (>= 2.15), libdns-export162, libisc-export160, debianutils (>= 2.8.2), iproute2
+ libc6 (>= 2.15), libdns-export100, libirs-export91, libisc-export95, debianutils (>= 2.8.2), isc-dhcp-common (= 4.3.1-6+deb8u3), iproute2
+ debianutils (>= 2.8.2)
+ libc6 (>= 2.15), libdns-export100, libirs-export91, libisc-export95, debianutils (>= 2.8.2)
+ libc6 (>= 2.14), libdb5.3, libsasl2-2, libssl1.1 (>= 1.1.0), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libdb5.3, libssl1.0.0 (>= 1.0.0)
+ libjq1 (= 1.5+dfsg-1.3), libc6 (>= 2.4), libonig4 (>= 5.9.5)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), lsb-base (>= 3.0-10)
+ libc6 (>= 2.14), lsb-base (>= 3.0-10)
+ liblocale-gettext-perl
+ liblocale-gettext-perl, initscripts
+ openssh-client | ssh-client
+ openssh-client | ssh-client, grep (>= 2.4.2-1)
+ libklibc (= 2.0.4-9)
+ libklibc (= 2.0.4-2)
+ libc6 (>= 2.17), libkmod2 (= 23-2), lsb-base
+ libc6 (>= 2.17), libkmod2 (= 18-3), lsb-base (>= 3.0-6)
+ libc6 (>= 2.14), libtinfo5 (>= 6), debianutils (>= 1.8)
+ libc6 (>= 2.14), libtinfo5, debianutils (>= 1.8)
+ libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgnutls30 (>= 3.5.6), libidn11 (>= 1.13), libreadline7 (>= 6.0), libstdc++6 (>= 5), libtinfo5 (>= 6), zlib1g (>= 1:1.1.4), netbase
+ libc6 (>= 2.17), libgcc1 (>= 1:4.1.1), libgnutls-deb0-28 (>= 3.3.0), libidn11 (>= 1.13), libreadline6 (>= 6.0), libstdc++6 (>= 4.1.1), libtinfo5, zlib1g (>= 1:1.1.4), netbase
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6-i386 (>= 2.2.4)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6-i386 (>= 2.2.4)
+ libattr1 (>= 1:2.4.46-8), libc6 (>= 2.14)
+ libattr1 (>= 1:2.4.46-8), libc6 (>= 2.14)
+ perl
+ perl
+ perl
+ perl
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.14), libalgorithm-diff-perl
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.14), libalgorithm-diff-perl
+ perl, libalgorithm-diff-perl
+ perl, libalgorithm-diff-perl
+ libc6 (>= 2.4), apache2-api-20120211
+ perl-base (>= 5.24.1-3+deb9u2), perlapi-5.24.1, libapparmor1 (>= 2.10.95), libc6 (>= 2.14)
+ perl-base (>= 5.20.1-3), perlapi-5.20.1, libapparmor1 (>= 2.8.94-0ubuntu1), libc6 (>= 2.14)
+ libc6 (>= 2.17)
+ libc6 (>= 2.14)
+ libc6 (>= 2.15), libuuid1 (>= 2.16)
+ libc6 (>= 2.15), libuuid1 (>= 2.16)
+ libapr1 (>= 1.4.8-2~), libc6 (>= 2.14), libdb5.3, libexpat1 (>= 2.0.1), libgdbm3 (>= 1.8.3), libssl1.1 (>= 1.1.0), libuuid1 (>= 2.16)
+ libapr1 (>= 1.4.8-2~), libc6 (>= 2.14), libdb5.3, libexpat1 (>= 2.0.1), libssl1.0.0 (>= 1.0.0), libuuid1 (>= 2.16)
+ libaprutil1 (= 1.5.4-3), libc6 (>= 2.4), libsqlite3-0 (>= 3.5.9)
+ libaprutil1 (= 1.5.4-1), libc6 (>= 2.4), libsqlite3-0 (>= 3.5.9)
+ libaprutil1 (= 1.5.4-3), libc6 (>= 2.4), libldap-2.4-2 (>= 2.4.7)
+ libaprutil1 (= 1.5.4-1), libc6 (>= 2.4), libldap-2.4-2 (>= 2.4.7)
+ libapt-pkg4.12 (>= 0.8.16~exp9), libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.4.0)
+ libbz2-1.0, libc6 (>= 2.15), libgcc1 (>= 1:4.1.1), liblzma5 (>= 5.1.1alpha+20120614), libstdc++6 (>= 4.9), zlib1g (>= 1:1.2.2.3)
+ perl, libmodule-load-conditional-perl (>= 0.66) | perl (>= 5.25.4)
+ perl (>= 5.13.6)
+ perl
+ perl
+ perl
+ perl
+ gcc-4.8-base (= 4.8.4-1), libc6 (>= 2.2.5), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libasprintf0v5 (= 0.19.8.1-2)
+ libasprintf0c2 (= 0.19.3-2)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.14), libgpg-error0 (>= 1.14)
+ libc6 (>= 2.14), libgpg-error0 (>= 1.10)
+ libc6 (>= 2.14)
+ libc6 (>= 2.7)
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.14)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.14)
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libaudit-common (>= 1:2.6.7-2), libc6 (>= 2.14), libcap-ng0
+ libaudit-common (>= 1:2.4-1), libc6 (>= 2.14)
+ perl
+ libc6 (>= 2.14), libdb5.3, perl (>= 5.24.1~rc3-2), perlapi-5.24.1
+ libc6 (>= 2.14), libdb5.3, perl (>= 5.20.0-4), perlapi-5.20.0
+ libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95, libisccfg90, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95, libisccfg90, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95, libisccfg90, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libc6 (>= 2.4), libgcc1 (>= 1:3.0), libgfortran3 (>= 4.3), libquadmath0 (>= 4.6), libblas-common
+ libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libgfortran3 (>= 4.3), libquadmath0 (>= 4.6), libblas-common
+ libc6 (>= 2.17), libuuid1 (>= 2.16)
+ libc6 (>= 2.17), libuuid1 (>= 2.16)
+ libbz2-1.0, libc6 (>= 2.2.5), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.2.1), zlib1g (>= 1:1.1.4)
+ libbz2-1.0, libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.2.1), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.16)
+ libc6 (>= 2.14)
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libc6 (>> 2.24), libc6 (<< 2.25)
+ libc6 (>> 2.24), libc6 (<< 2.25)
+ libc6 (>> 2.19), libc6 (<< 2.20)
+ libc6 (>> 2.24), libc6 (<< 2.25)
+ libc6 (>> 2.24), libc6 (<< 2.25)
+ libc6 (>> 2.19), libc6 (<< 2.20)
+ libgcc1
+ libgcc1
+ libgcc1
+ libc6 (= 2.24-11+deb9u3), libc-dev-bin (= 2.24-11+deb9u3), linux-libc-dev (>= 4.9.65-3)
+ libc6 (= 2.24-11+deb9u1), libc-dev-bin (= 2.24-11+deb9u1), linux-libc-dev (>= 4.9.30-1)
+ libc6 (= 2.19-18+deb8u10), libc-dev-bin (= 2.19-18+deb8u10), linux-libc-dev
+ libc6 (= 2.24-11+deb9u3)
+ libc6 (= 2.24-11+deb9u1)
+ libc6 (= 2.19-18+deb8u10)
+ libc6 (>= 2.8)
+ libc6 (>= 2.8)
+ libc6 (>= 2.14)
+ libattr1 (>= 1:2.4.46-8), libc6 (>= 2.14)
+ libc6 (>= 2.14), libcap2 (>= 1:2.10)
+ libc6 (>= 2.14), libcap2 (>= 1:2.10)
+ perl
+ perl
+ perl, libcgi-pm-perl (>= 4), libfcgi-perl
+ perl, libcgi-pm-perl (>= 4), libfcgi-perl
+ perl, libhtml-parser-perl
+ perl
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 4.1.1)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.14), libgcc1 (>= 1:4.8), libstdc++6 (>= 4.1.1)
+ perl, libalgorithm-c3-perl
+ perl, libalgorithm-c3-perl
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.2.5)
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.2.5)
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.2.5)
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.2.5)
+ libc6 (>= 2.14), libgmp10, libisl15 (>= 0.13)
+ libc6 (>= 2.14), libgmp10, libisl10 (>= 0.11)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ libconfig9 (= 1.5-0.3), pkg-config
+ libconfig9 (= 1.4.9-2), pkg-config (>= 0.20)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ perl, perl (>= 5.17.1) | libcpan-meta-requirements-perl (>= 2.121), perl (>= 5.19.9) | libcpan-meta-yaml-perl (>= 0.011), perl (>= 5.21.5) | libjson-pp-perl (>= 2.27300)
+ perl, perl (>= 5.15.0) | libjson-pp-perl, perl (>= 5.17.1) | libcpan-meta-requirements-perl, perl (>= 5.17.1) | libcpan-meta-yaml-perl, perl (>= 5.19.10) | libparse-cpan-meta-perl (>= 1.4414)
+ libc6 (>= 2.14), libglib2.0-0 (>= 2.16.0), libxml2 (>= 2.7.4)
+ libc6 (>= 2.14), libglib2.0-0 (>= 2.16.0), libxml2 (>= 2.7.4)
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.4)
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.4)
+ libc6 (>= 2.17), libdevmapper1.02.1 (>= 2:1.02.97), libgcrypt20 (>= 1.7.0), libuuid1 (>= 2.16), libgpg-error0 (>= 1.10-0.1)
+ libc6 (>= 2.17), libdevmapper1.02.1 (>= 2:1.02.90), libgcrypt20 (>= 1.6.1), libuuid1 (>= 2.16), libgpg-error0 (>= 1.10-0.1)
+ libc6 (>= 2.17), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.14+dfsg), libidn2-0 (>= 0.6), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libldap-2.4-2 (>= 2.4.7), libnghttp2-14 (>= 1.12.0), libpsl5 (>= 0.13.0), librtmp1 (>= 2.4+20131018.git79459a2-3~), libssh2-1 (>= 1.7.0), libssl1.0.2 (>= 1.0.2d), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.14+dfsg), libidn2-0 (>= 0.6), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libldap-2.4-2 (>= 2.4.7), libnghttp2-14 (>= 1.12.0), libpsl5 (>= 0.13.0), librtmp1 (>= 2.4+20131018.git79459a2-3~), libssh2-1 (>= 1.7.0), libssl1.0.2 (>= 1.0.2d), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.10+dfsg~), libidn11 (>= 1.13), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libldap-2.4-2 (>= 2.4.7), librtmp1 (>= 2.4+20131018.git79459a2-3~), libssh2-1 (>= 1.2.6), libssl1.0.0 (>= 1.0.1), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.10+dfsg~), libidn11 (>= 1.13), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libldap-2.4-2 (>= 2.4.7), librtmp1 (>= 2.4+20131018.git79459a2-3~), libssh2-1 (>= 1.2.6), libssl1.0.0 (>= 1.0.1), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcomerr2 (>= 1.01), libgnutls30 (>= 3.5.6), libgssapi-krb5-2 (>= 1.14+dfsg), libidn2-0 (>= 0.6), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libldap-2.4-2 (>= 2.4.7), libnettle6, libnghttp2-14 (>= 1.12.0), libpsl5 (>= 0.13.0), librtmp1 (>= 2.4+20131018.git79459a2-3~), libssh2-1 (>= 1.7.0), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcomerr2 (>= 1.01), libgnutls30 (>= 3.5.6), libgssapi-krb5-2 (>= 1.14+dfsg), libidn2-0 (>= 0.6), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libldap-2.4-2 (>= 2.4.7), libnettle6, libnghttp2-14 (>= 1.12.0), libpsl5 (>= 0.13.0), librtmp1 (>= 2.4+20131018.git79459a2-3~), libssh2-1 (>= 1.7.0), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcomerr2 (>= 1.01), libgnutls-deb0-28 (>= 3.3.0), libgssapi-krb5-2 (>= 1.10+dfsg~), libidn11 (>= 1.13), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libldap-2.4-2 (>= 2.4.7), libnettle4, librtmp1 (>= 2.4+20131018.git79459a2-3~), libssh2-1 (>= 1.2.6), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcomerr2 (>= 1.01), libgnutls-deb0-28 (>= 3.3.0), libgssapi-krb5-2 (>= 1.10+dfsg~), libidn11 (>= 1.13), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libldap-2.4-2 (>= 2.4.7), libnettle4, librtmp1 (>= 2.4+20131018.git79459a2-3~), libssh2-1 (>= 1.2.6), zlib1g (>= 1:1.1.4)
+ perl, libparams-util-perl, libsub-install-perl
+ perl, libparams-util-perl, libsub-install-perl
+ perl, libmro-compat-perl, libsub-exporter-perl
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.4)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ libc6 (>= 2.4)
+ libc6 (>= 2.2.5)
+ libc6 (>= 2.15), libdevmapper1.02.1 (>= 2:1.02.103)
+ libc6 (>= 2.15), libdevmapper1.02.1 (>= 2:1.02.90)
+ libc6 (>= 2.22), libselinux1 (>= 1.32), libudev1 (>= 183), dmsetup (>= 2:1.02.137-2)
+ libc6 (>= 2.14), libselinux1 (>= 1.32), libudev1 (>= 183), dmsetup (>= 2:1.02.90-2.2+deb8u1)
+ perl
+ libc6 (>= 2.4), libisc-export95
+ libc6 (>= 2.4), libisc-export95
+ libc6 (>= 2.4), libisc-export95
+ libc6 (>= 2.14), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libgeoip1, libgssapi-krb5-2 (>= 1.10+dfsg~), libisc95, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libc6 (>= 2.14), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libgeoip1, libgssapi-krb5-2 (>= 1.10+dfsg~), libisc95, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libc6 (>= 2.14), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libgeoip1, libgssapi-krb5-2 (>= 1.10+dfsg~), libisc95, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ perl, dpkg (>= 1.18.11)
+ dpkg (>= 1.15.8), perl, libtimedate-perl
+ dpkg (>= 1.15.8), perl, libtimedate-perl
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.6)
+ libbsd0 (>= 0.0), libc6 (>= 2.17), libncurses5 (>= 6), libtinfo5 (>= 6)
+ libbsd0 (>= 0.0), libc6 (>= 2.17), libtinfo5
+ libc6 (>= 2.14)
+ perl
+ perl
+ libenet7 (= 1.3.12+ds-2)
+ libc6 (>= 2.2.5)
+ libc6 (>= 2.14)
+ libenet7 (= 1.3.12+ds-2)
+ libapt-pkg4.12 (>= 0.8.16~exp9), libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9), libxapian22, zlib1g (>= 1:1.1.4)
+ perl
+ perl
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ libc6 (>= 2.14), libexpat1 (>= 2.0.1), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libexpat1 (>= 2.0.1), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libexpat1 (= 2.2.0-2+deb9u1), libc6-dev | libc-dev
+ libexpat1 (= 2.1.0-6+deb8u4), libc6-dev | libc-dev
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ perl (>= 5.24.1~rc3-3), perlapi-5.24.1, libc6 (>= 2.15)
+ perl (>= 5.20.2-3+deb8u6), perlapi-5.20.2, libc6 (>= 2.15)
+ libblkid1 (>= 2.24.2), libc6 (>= 2.17), libuuid1 (>= 2.16)
+ libblkid1 (>= 2.17.2), libc6 (>= 2.17), libuuid1 (>= 2.16)
+ libffi6 (= 3.2.1-6), dpkg (>= 1.15.4) | install-info
+ libffi6 (= 3.1-2+deb8u1), dpkg (>= 1.15.4) | install-info
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libgomp1 (>= 4.9)
+ libc6 (>= 2.14), libgomp1 (>= 4.9)
+ perl (>= 5.6.0-16)
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.4)
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.4)
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.4)
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.4)
+ perl, libcrypt-rijndael-perl, libxml-parser-perl
+ perl, libhttp-date-perl
+ libassuan0 (>= 2.0.1), libc6 (>= 2.14), libgpg-error0 (>= 1.10), libgpgme11 (>= 1.2.0)
+ perl
+ perl (>= 5.6.0-16)
+ libc6 (>= 2.14), libexpat1 (>= 2.0.1), libfreetype6 (>= 2.2.1), fontconfig-config (>= 2.11.0-6.7)
+ libc6 (>= 2.14), libexpat1 (>= 2.0.1), libfreetype6 (>= 2.2.1), fontconfig-config (>= 2.11.0-6.3+deb8u1)
+ libc6 (>= 2.14), libpng16-16 (>= 1.6.2-1), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libpng12-0 (>= 1.2.13-4), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ gcc-4.8-base (= 4.8.4-1), libgcc1 (>= 1:4.8.4-1), libgomp1 (>= 4.8.4-1), libitm1 (>= 4.8.4-1), libatomic1 (>= 4.8.4-1), libasan0 (>= 4.8.4-1), libtsan0 (>= 4.8.4-1), libquadmath0 (>= 4.8.4-1)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libgcc1 (>= 1:4.9.2-10+deb8u1), libgomp1 (>= 4.9.2-10+deb8u1), libitm1 (>= 4.9.2-10+deb8u1), libatomic1 (>= 4.9.2-10+deb8u1), libasan1 (>= 4.9.2-10+deb8u1), liblsan0 (>= 4.9.2-10+deb8u1), libtsan0 (>= 4.9.2-10+deb8u1), libubsan0 (>= 4.9.2-10+deb8u1), libcilkrts5 (>= 4.9.2-10+deb8u1), libquadmath0 (>= 4.9.2-10+deb8u1)
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.14)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.14)
+ libc6 (>= 2.4), libgpg-error0 (>= 1.10)
+ libc6 (>= 2.15), libgpg-error0 (>= 1.14)
+ libc6 (>= 2.15), libgpg-error0 (>= 1.14)
+ libc6 (>= 2.15), libgpg-error0 (>= 1.14)
+ libc6 (>= 2.14), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libjpeg62-turbo (>= 1.3.1), libpng16-16 (>= 1.6.2-1), libtiff5 (>= 4.0.3), libwebp6 (>= 0.5.1), libx11-6, libxpm4, zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libjpeg62-turbo (>= 1.3.1), libpng12-0 (>= 1.2.13-4), libtiff5 (>= 4.0.3), libvpx1 (>= 1.0.0), libx11-6, libxpm4, zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), dpkg (>= 1.15.4) | install-info
+ libc6 (>= 2.14), dpkg (>= 1.15.4) | install-info
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libgettextpo0 (= 0.19.8.1-2)
+ libgettextpo0 (= 0.19.3-2)
+ libc6 (>= 2.14), libunistring0
+ libc6 (>= 2.14), libunistring0
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.17), libgcc1 (>= 1:4.3), libquadmath0 (>= 4.6)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.17), libgcc1 (>= 1:4.4.0), libquadmath0 (>= 4.6)
+ libc6 (>= 2.17), libffi6 (>= 3.0.4), libmount1 (>= 2.20.1), libpcre3, libselinux1 (>= 1.32), zlib1g (>= 1:1.2.2)
+ libc6 (>= 2.17), libffi6 (>= 3.0.4), libpcre3 (>= 1:8.35), libselinux1 (>= 1.32), zlib1g (>= 1:1.2.2)
+ libassuan0 (>= 2.0.1), libc6 (>= 2.14), libglib2.0-0 (>= 2.31.8), libgpg-error0 (>= 1.14), libgpgme11 (>= 1.2.0), zlib1g (>= 1:1.1.4)
+ libassuan0 (>= 2.0.1), libc6 (>= 2.14), libglib2.0-0 (>= 2.31.8), libgpg-error0 (>= 1.14), libgpgme11 (>= 1.2.0), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.17), libgmp10 (>= 2:6), libhogweed2 (>= 2.7), libnettle4 (>= 2.7), libp11-kit0 (>= 0.20.7), libtasn1-6 (>= 4.1-0), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libgmp10 (>= 2:6), libhogweed2 (>= 2.7), libnettle4 (>= 2.7), libp11-kit0 (>= 0.20.7), libtasn1-6 (>= 4.1-0), zlib1g (>= 1:1.1.4)
+ libgnutls30 (= 3.5.8-5+deb9u3), libc6 (>= 2.14)
+ libgnutls30 (= 3.5.8-5+deb9u1), libc6 (>= 2.14)
+ libgnutls-deb0-28 (= 3.3.8-6+deb8u7), libc6 (>= 2.14)
+ libgnutls-deb0-28 (= 3.3.8-6+deb8u6), libc6 (>= 2.14)
+ libc6 (>= 2.8), libgcrypt11 (>= 1.4.5), libp11-kit0 (>= 0.11), libtasn1-3 (>= 1.6-0), zlib1g (>= 1:1.1.4)
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.17)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.17)
+ libc6 (>= 2.15)
+ libc6 (>= 2.14)
+ gnupg (>> 2) | gnupg2 (>> 2.0.4), libassuan0 (>= 2.0.1), libc6 (>= 2.15), libgpg-error0 (>= 1.14)
+ gnupg2 (>> 2.0.4), libassuan0 (>= 2.0.1), libc6 (>= 2.15), libgpg-error0 (>= 1.10)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.14+dfsg), libidn11 (>= 1.13), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libntlm0 (>= 1.2)
+ libc6 (>= 2.14), libidn11 (>= 1.13), libntlm0 (>= 1.2)
+ libc6 (>= 2.14), libcomerr2 (>= 1.34), libk5crypto3 (>= 1.8+dfsg), libkeyutils1 (>= 1.4), libkrb5-3 (= 1.15-1+deb9u1), libkrb5support0 (>= 1.15~beta1)
+ libc6 (>= 2.14), libcomerr2 (>= 1.34), libk5crypto3 (>= 1.8+dfsg), libkeyutils1 (>= 1.4), libkrb5-3 (= 1.12.1+dfsg-19+deb8u4), libkrb5support0 (>= 1.12~alpha1+dfsg)
+ libc6 (>= 2.14), libcomerr2 (>= 1.34), libk5crypto3 (>= 1.8+dfsg), libkeyutils1 (>= 1.4), libkrb5-3 (= 1.12.1+dfsg-19+deb8u2), libkrb5support0 (>= 1.12~alpha1+dfsg)
+ libc6 (>= 2.14), libgmp10 (>= 2:6.0.0), libnettle4 (= 2.7.1-5+deb8u2)
+ perl, libhtml-parser-perl, libhttp-message-perl, liburi-perl
+ perl, libfont-afm-perl, libhtml-tree-perl
+ perl, libfont-afm-perl, libhtml-tree-perl
+ perl (>= 5.24.1~rc3-3), perlapi-5.24.1, libc6 (>= 2.4), libhtml-tagset-perl, liburi-perl
+ perl (>= 5.20.1-1), perlapi-5.20.1, libc6 (>= 2.4), liburi-perl, libhtml-tagset-perl
+ perl
+ perl (>= 5.6.0-16)
+ perl, libhtml-parser-perl, libhtml-tagset-perl
+ perl, libhtml-parser-perl, libhtml-tagset-perl
+ perl, libhttp-date-perl, libhttp-message-perl
+ perl, libhttp-date-perl, libhttp-message-perl, liblwp-mediatypes-perl
+ perl, libtimedate-perl
+ perl, libencode-locale-perl, libhttp-date-perl, libio-html-perl, liblwp-mediatypes-perl, liburi-perl, perl (>= 5.11) | libio-compress-perl
+ perl, libencode-locale-perl, libhttp-date-perl, libio-html-perl, liblwp-mediatypes-perl, liburi-perl, perl (>= 5.11) | libio-compress-perl
+ perl, libhttp-message-perl
+ libbsd0 (>= 0.2.0), libc6 (>= 2.14), x11-common
+ libc6 (>= 2.14), x11-common
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ perl
+ perl
+ perl
+ perl
+ perl
+ perl
+ perl
+ perl, libsocket6-perl
+ perl, libsocket6-perl
+ netbase, perl-base (>= 5.15.6) | libsocket-perl (>= 1.97)
+ netbase, perl-base (>= 5.15.6) | libsocket-perl (>= 1.97)
+ libnet-ssleay-perl (>= 1.59), netbase, perl
+ libnet-ssleay-perl (>= 1.59), netbase, perl
+ libc6 (>= 2.14), libdns-export100, libisc-export95, libisccfg-export90
+ libc6 (>= 2.14), libdns-export100, libisc-export95, libisccfg-export90
+ libc6 (>= 2.14), libdns-export100, libisc-export95, libisccfg-export90
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ libc6 (>= 2.15), libcap2 (>= 1:2.10), libxml2 (>= 2.7.4)
+ libc6 (>= 2.15), libcap2 (>= 1:2.10), libxml2 (>= 2.7.4)
+ libc6 (>= 2.15), libcap2 (>= 1:2.10), libxml2 (>= 2.7.4)
+ libc6 (>= 2.4), libcap2 (>= 1:2.10), libisc95, libxml2 (>= 2.6.27)
+ libc6 (>= 2.4), libcap2 (>= 1:2.10), libisc95, libxml2 (>= 2.6.27)
+ libc6 (>= 2.4), libcap2 (>= 1:2.10), libisc95, libxml2 (>= 2.6.27)
+ libc6 (>= 2.4), libisc-export95
+ libc6 (>= 2.4), libisc-export95
+ libc6 (>= 2.4), libisc-export95
+ libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95, libisccc90, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95, libisccc90, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libc6 (>= 2.4), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdns100, libgssapi-krb5-2 (>= 1.6.dfsg.2), libisc95, libisccc90, libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libssl1.0.0 (>= 1.0.0), libxml2 (>= 2.6.27)
+ libc6 (>= 2.14), libgmp10
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.14)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libjpeg62-turbo-dev (>= 1:1.5.1-2)
+ libjpeg62-turbo-dev (>= 1:1.3.1-12)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc-dev, libjpeg62-turbo (= 1:1.5.1-2)
+ libc-dev, libjpeg62-turbo (= 1:1.3.1-12)
+ libc6 (>= 2.14), libonig4 (>= 5.9.5)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libkeyutils1 (>= 1.4), libkrb5support0 (>= 1.15~beta1)
+ libc6 (>= 2.14), libkeyutils1 (>= 1.4), libkrb5support0 (>= 1.12~alpha1+dfsg)
+ libc6 (>= 2.14), libkeyutils1 (>= 1.4), libkrb5support0 (>= 1.12~alpha1+dfsg)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ libc6 (>= 2.16), libcomerr2 (>= 1.34), libk5crypto3 (>= 1.15~beta1), libkeyutils1 (>= 1.5.9), libkrb5support0 (= 1.15-1+deb9u1)
+ libc6 (>= 2.16), libcomerr2 (>= 1.34), libk5crypto3 (>= 1.9+dfsg~beta1), libkeyutils1 (>= 1.5.9), libkrb5support0 (= 1.12.1+dfsg-19+deb8u4)
+ libc6 (>= 2.16), libcomerr2 (>= 1.34), libk5crypto3 (>= 1.9+dfsg~beta1), libkeyutils1 (>= 1.5.9), libkrb5support0 (= 1.12.1+dfsg-19+deb8u2)
+ libc6 (>= 2.14), libkeyutils1 (>= 1.4)
+ libc6 (>= 2.14), libkeyutils1 (>= 1.4)
+ libc6 (>= 2.14), libkeyutils1 (>= 1.4)
+ libc6 (>= 2.14), libgpg-error0 (>= 1.14)
+ libc6 (>= 2.14), libgpg-error0 (>= 1.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libgnutls30 (>= 3.5.6), libsasl2-2, libldap-common (>= 2.4.44+dfsg-5+deb9u2)
+ libc6 (>= 2.14), libgnutls-deb0-28 (>= 3.3.0), libsasl2-2
+ libc6 (>= 2.14), libgnutls-deb0-28 (>= 3.3.0), libsasl2-2
+ libblas3 | libblas.so.3, libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.2.5)
+ libc6 (>= 2.2.5)
+ libc6 (>= 2.14)
+ libc6 (>= 2.4)
+ libc6 (>= 2.14), liblockfile-bin (>= 1.14-1+b1)
+ libc6 (>= 2.4), liblockfile-bin (>= 1.09-6)
+ perl
+ perl, liblog-message-perl
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libc6 (>= 2.14), libestr0 (>= 0.1.0), libjson-c2 (>= 0.10)
+ libc6 (>= 2.2.5), libglib2.0-0 (>= 2.24.0)
+ libc6 (>= 2.2.5), libglib2.0-0 (>= 2.24.0)
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.3), libgcc1 (>= 1:3.3), libstdc++6 (>= 4.1.1)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libltdl7 (= 2.4.6-2)
+ libltdl7 (= 2.4.2-1.11+b1)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ liblua5.1-0 (= 5.1.5-8.1+b2), libc6-dev | libc-dev, libreadline-dev
+ liblua5.1-0 (= 5.1.5-7.1), libc6-dev | libc-dev, libreadline-dev
+ lua-expat
+ lua-filesystem
+ lua-lpeg
+ lua-socket
+ lua-sql-sqlite3
+ libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.14)
+ liblua5.2-0 (= 5.2.4-1.1+b2), libc6-dev | libc-dev, libreadline-dev
+ liblua5.2-0 (= 5.2.3-1.1), libc6-dev | libc-dev, libreadline-dev
+ libc6 (>= 2.14), libgcc1 (>= 1:3.3), libluajit-5.1-common (= 2.0.4+dfsg-1)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libluajit-5.1-common (= 2.0.3+dfsg-3)
+ libluajit-5.1-2 (= 2.0.4+dfsg-1+b1)
+ libluajit-5.1-2 (= 2.0.3+dfsg-3)
+ libblkid1 (>= 2.24.2), libc6 (>= 2.15), libdevmapper-event1.02.1 (>= 2:1.02.74), libdevmapper1.02.1 (>= 2:1.02.135), libudev1 (>= 183), dmeventd
+ libc6 (>= 2.14), libdevmapper-event1.02.1 (>= 2:1.02.74), libdevmapper1.02.1 (>= 2:1.02.90), libudev1 (>= 183), dmeventd (>> 2:1.02.90)
+ perl
+ perl, ca-certificates, libio-socket-ssl-perl (>= 1.54), libnet-http-perl, libwww-perl (>= 6.05-2)
+ libc6 (>= 2.15), libcap2 (>= 1:2.10), libxml2 (>= 2.6.27)
+ libc6 (>= 2.15), libcap2 (>= 1:2.10), libxml2 (>= 2.6.27)
+ libc6 (>= 2.15), libcap2 (>= 1:2.10), libxml2 (>= 2.6.27)
+ libc6 (>= 2.17)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.15), zlib1g (>= 1:1.1.4), libmagic-mgc (= 1:5.30-1+deb9u2)
+ libc6 (>= 2.15), zlib1g (>= 1:1.1.4), libmagic-mgc (= 1:5.30-1+deb9u1)
+ libc6 (>= 2.15), zlib1g (>= 1:1.1.4)
+ libbz2-1.0, libc6 (>= 2.14), libfftw3-double3, libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.1.1), libgomp1 (>= 4.9), libjbig0 (>= 2.0), libjpeg62-turbo (>= 1.3.1), liblcms2-2 (>= 2.2+git20110628), liblqr-1-0 (>= 0.4.0), libltdl7 (>= 2.4.2), liblzma5 (>= 5.1.1alpha+20120614), libpng12-0 (>= 1.2.13-4), libtiff5 (>= 4.0.3), libx11-6, libxext6, libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), imagemagick-common (= 8:6.8.9.9-5+deb8u14)
+ libbz2-1.0, libc6 (>= 2.14), libfftw3-double3, libfontconfig1 (>= 2.11), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.1.1), libgomp1 (>= 4.9), libjbig0 (>= 2.0), libjpeg62-turbo (>= 1.3.1), liblcms2-2 (>= 2.2+git20110628), liblqr-1-0 (>= 0.4.0), libltdl7 (>= 2.4.2), liblzma5 (>= 5.1.1alpha+20120614), libpng12-0 (>= 1.2.13-4), libtiff5 (>= 4.0.3), libx11-6, libxext6, libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), imagemagick-common (= 8:6.8.9.9-5+deb8u12)
+ libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libgomp1 (>= 4.9), libmagickcore-6.q16-2 (>= 8:6.8.9.9), libx11-6, imagemagick-common (= 8:6.8.9.9-5+deb8u14)
+ libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libgomp1 (>= 4.9), libmagickcore-6.q16-2 (>= 8:6.8.9.9), libx11-6, imagemagick-common (= 8:6.8.9.9-5+deb8u12)
+ perl, libnet-perl, libtimedate-perl, libnet-smtp-ssl-perl
+ perl, libnet-perl, libtimedate-perl, libnet-smtp-ssl-perl
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ perl
+ perl
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ perl, perl (>= 5.19.5) | libtest-harness-perl (>= 3.29), perl (>= 5.21.3) | libcpan-meta-perl (>= 2.142060)
+ perl, libcpan-meta-perl (>= 2.142060) | perl (>= 5.21.3), libperl-ostype-perl, perl (>= 5.11.2) | libextutils-cbuilder-perl, perl (>= 5.12) | libextutils-parsexs-perl, perl (>= 5.13.9) | libmodule-metadata-perl, perl (>= 5.13.9) | libversion-perl (>= 1:0.8700)
+ perl
+ perl
+ perl
+ perl
+ libblkid1 (>= 2.17.2), libc6 (>= 2.17), libselinux1 (>= 2.6-3~)
+ libblkid1 (>= 2.17.2), libc6 (>= 2.17), libselinux1 (>= 1.32)
+ libc6 (>= 2.4), libgmp10, libmpfr4 (>= 3.1.3)
+ libc6 (>= 2.3), libgmp10, libmpfr4 (>= 3.1.2)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libgmp10
+ libc6 (>= 2.14), libgmp10
+ perl, libclass-c3-perl (>= 0.24)
+ libtinfo5 (= 6.0+20161126-1+deb9u2), libc6 (>= 2.14)
+ libtinfo5 (= 5.9+20140913-1+deb8u3), libc6 (>= 2.15)
+ libtinfo5 (= 6.0+20161126-1+deb9u2), libncurses5 (= 6.0+20161126-1+deb9u2), libtinfo-dev (= 6.0+20161126-1+deb9u2), libc6-dev | libc-dev
+ libtinfo5 (= 5.9+20140913-1+deb8u3), libncurses5 (= 5.9+20140913-1+deb8u3), libtinfo-dev (= 5.9+20140913-1+deb8u3), ncurses-bin (= 5.9+20140913-1+deb8u3), libc6-dev | libc-dev
+ libtinfo5 (= 6.0+20161126-1+deb9u2), libc6 (>= 2.14)
+ libtinfo5 (= 5.9+20140913-1+deb8u3), libc6 (>= 2.15)
+ perl
+ perl
+ perl, libdigest-hmac-perl, libio-socket-inet6-perl, libnet-ip-perl
+ perl (>= 5.20.2-3+deb8u5), perlapi-5.20.2, libc6 (>= 2.4), libdigest-hmac-perl, libio-socket-inet6-perl, libnet-ip-perl
+ perl, perl (>= 5.19.8) | libio-socket-ip-perl | libio-socket-inet6-perl, liburi-perl
+ perl, libio-socket-ip-perl | perl (>= 5.19.8) | libio-socket-inet6-perl, liburi-perl
+ perl
+ perl, libnet-dns-perl (>= 1.01)
+ libnet-dns-perl, perl (>= 5.6.0-16)
+ perl, libcgi-pm-perl | perl (<< 5.19), libio-multiplex-perl, libio-socket-inet6-perl, libnet-cidr-perl, libsocket6-perl
+ perl, libio-multiplex-perl, libio-socket-inet6-perl, libnet-cidr-perl, libsocket6-perl
+ libio-socket-ssl-perl, perl
+ perl, libio-socket-ssl-perl
+ perl (>= 5.24.1~rc4-1), perl-openssl-abi-1.1, perlapi-5.24.1, libc6 (>= 2.14), libssl1.1 (>= 1.1.0)
+ perl (>= 5.20.2-3+deb8u5), perlapi-5.20.2, libc6 (>= 2.14), libssl1.0.0 (>= 1.0.1)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libmnl0 (>= 1.0.3-4~), libnfnetlink0
+ libc6 (>= 2.14), libmnl0, libnfnetlink0
+ libc6 (>= 2.14)
+ libc6 (>= 2.15), libslang2 (>= 2.2.4)
+ libc6 (>= 2.15), libslang2 (>= 2.2.4)
+ libc6 (>= 2.14)
+ nginx-common (= 1.10.3-1+deb9u1), libc6 (>= 2.14)
+ libnginx-mod-http-ndk (= 1.10.3-1+deb9u1), nginx-common (= 1.10.3-1+deb9u1), libc6 (>= 2.14), libluajit-5.1-2
+ nginx-common (= 1.10.3-1+deb9u1), libc6 (>= 2.4)
+ nginx-common (= 1.10.3-1+deb9u1), libc6 (>= 2.14)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libglib2.0-0 (>= 2.22.0), libgmime-2.6-0 (>= 2.6.4), libstdc++6 (>= 4.1.1), libtalloc2 (>= 2.0.4~git20101213), libxapian22
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.17), libssl1.1 (>= 1.1.0)
+ libc6 (>= 2.14), libncurses5 (>= 5.5-5~), libtinfo5
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.16), libffi6 (>= 3.0.4)
+ libc6 (>= 2.16), libffi6 (>= 3.0.4)
+ perl
+ perl
+ libc6 (>= 2.14), libcap2 (>= 1:2.10), libpam0g (>= 0.99.7.1), libpam-runtime (>= 1.1.3-2~)
+ libc6 (>= 2.4), libcap2 (>= 1:2.10), libpam0g (>= 0.99.7.1), libpam-runtime (>= 1.1.3-2~)
+ libaudit1 (>= 1:2.2.1), libc6 (>= 2.14), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32)
+ libaudit1 (>= 1:2.2.1), libc6 (>= 2.14), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32)
+ debconf (>= 0.5) | debconf-2.0, debconf (>= 1.5.19) | cdebconf, libpam-modules (>= 1.0.1-6)
+ debconf (>= 0.5) | debconf-2.0, debconf (>= 1.5.19) | cdebconf, libpam-modules (>= 1.0.1-6)
+ libaudit1 (>= 1:2.2.1), libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0
+ libaudit1 (>= 1:2.2.1), libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.4)
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.4)
+ perl
+ libblkid1 (>= 2.17.2), libc6 (>= 2.14), libdevmapper1.02.1 (>= 2:1.02.97), libuuid1 (>= 2.16)
+ libblkid1 (>= 2.17.2), libc6 (>= 2.14), libdevmapper1.02.1 (>= 2:1.02.90), libuuid1 (>= 2.16)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libudev1 (>= 196), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6-dev, libpcre3 (= 2:8.39-3), libpcre16-3 (= 2:8.39-3), libpcre32-3 (= 2:8.39-3), libpcrecpp0v5 (= 2:8.39-3)
+ libc6-dev, libpcre3 (= 2:8.35-3.3+deb8u4), libpcrecpp0 (= 2:8.35-3.3+deb8u4)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libpcre3 (>= 1:8.35), libstdc++6 (>= 4.2.1)
+ perl
+ perl
+ libc6 (>= 2.14), perl-base (= 5.20.2-3+deb8u11)
+ libc6 (>= 2.17)
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ libc6 (>= 2.14), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), zlib1g (>= 1:1.1.4)
+ perl
+ perl
+ perl, libclass-method-modifiers-perl (>= 2.00), libcpan-changes-perl (>= 0.30), libfile-slurp-perl, libgetopt-long-descriptive-perl, libmoo-perl (>= 1.004005), libmoox-handlesvia-perl, libnamespace-autoclean-perl, libpath-tiny-perl, librole-tiny-perl, libtry-tiny-perl, libtype-tiny-perl, perl (>= 5.13.10) | libcpan-meta-perl, perl (>= 5.19.5) | libscalar-list-utils-perl (>= 1:1.33)
+ perl, libregexp-common-perl
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ libc6 (>= 2.4)
+ libc6 (>= 2.14)
+ libprotobuf-c1 (= 1.2.1-2)
+ libprotobuf-c1 (= 1.0.2-1)
+ libc6 (>= 2.2.5)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.15), libgcc1 (>= 1:4.1.1), libprotobuf9, libstdc++6 (>= 4.9), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.8), libicu52 (>= 52~m1-1~)
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ libpython2.7-dev (>= 2.7.13-1~)
+ libpython2.7-dev (>= 2.7.9-1~)
+ libpython2.7-stdlib (>= 2.7.13-1~)
+ libpython2.7-stdlib (>= 2.7.9-1~)
+ libpython2.7-stdlib (= 2.7.13-2+deb9u3), libc6 (>= 2.15), zlib1g (>= 1:1.2.0)
+ libpython2.7-stdlib (= 2.7.13-2+deb9u2), libc6 (>= 2.15), zlib1g (>= 1:1.2.0)
+ libpython2.7-stdlib (= 2.7.9-2+deb8u2), libc6 (>= 2.15), zlib1g (>= 1:1.2.0)
+ libpython2.7-stdlib (= 2.7.9-2+deb8u1), libc6 (>= 2.15), zlib1g (>= 1:1.2.0)
+ libpython2.7-stdlib (= 2.7.13-2+deb9u3), libpython2.7 (= 2.7.13-2+deb9u3), libexpat1-dev
+ libpython2.7-stdlib (= 2.7.13-2+deb9u2), libpython2.7 (= 2.7.13-2+deb9u2), libexpat1-dev
+ libpython2.7-stdlib (= 2.7.9-2+deb8u2), libpython2.7 (= 2.7.9-2+deb8u2), libexpat1-dev
+ libpython2.7-stdlib (= 2.7.9-2+deb8u1), libpython2.7 (= 2.7.9-2+deb8u1), libexpat1-dev
+ libpython2.7-minimal (= 2.7.13-2+deb9u3), mime-support, libbz2-1.0, libc6 (>= 2.15), libdb5.3, libexpat1 (>= 2.1~beta3), libffi6 (>= 3.0.4), libncursesw5 (>= 6), libreadline7 (>= 7.0~beta), libsqlite3-0 (>= 3.5.9), libssl1.1 (>= 1.1.0), libtinfo5 (>= 6)
+ libpython2.7-minimal (= 2.7.13-2+deb9u2), mime-support, libbz2-1.0, libc6 (>= 2.15), libdb5.3, libexpat1 (>= 2.1~beta3), libffi6 (>= 3.0.4), libncursesw5 (>= 6), libreadline7 (>= 7.0~beta), libsqlite3-0 (>= 3.5.9), libssl1.1 (>= 1.1.0), libtinfo5 (>= 6)
+ libpython2.7-minimal (= 2.7.9-2+deb8u2), mime-support, libbz2-1.0, libc6 (>= 2.15), libdb5.3, libexpat1 (>= 2.1~beta3), libffi6 (>= 3.0.4), libncursesw5 (>= 5.6+20070908), libreadline6 (>= 6.0), libsqlite3-0 (>= 3.5.9), libssl1.0.0 (>= 1.0.1), libtinfo5
+ libpython2.7-minimal (= 2.7.9-2+deb8u1), mime-support, libbz2-1.0, libc6 (>= 2.15), libdb5.3, libexpat1 (>= 2.1~beta3), libffi6 (>= 3.0.4), libncursesw5 (>= 5.6+20070908), libreadline6 (>= 6.0), libsqlite3-0 (>= 3.5.9), libssl1.0.0 (>= 1.0.1), libtinfo5
+ libpython3.5-stdlib (>= 3.5.3-1~)
+ libpython3.4-stdlib (>= 3.4.2-0)
+ libc6 (>= 2.14), libssl1.0.0 (>= 1.0.1)
+ libc6 (>= 2.14), libssl1.0.0 (>= 1.0.1)
+ libpython3.4-minimal (= 3.4.2-1+deb8u1), mime-support, libbz2-1.0, libc6 (>= 2.15), libdb5.3, libffi6 (>= 3.0.4), liblzma5 (>= 5.1.1alpha+20120614), libmpdec2, libncursesw5 (>= 5.6+20070908), libreadline6 (>= 6.0), libsqlite3-0 (>= 3.5.9), libtinfo5
+ libpython3.4-minimal (= 3.4.2-1), mime-support, libbz2-1.0, libc6 (>= 2.15), libdb5.3, libffi6 (>= 3.0.4), liblzma5 (>= 5.1.1alpha+20120614), libmpdec2, libncursesw5 (>= 5.6+20070908), libreadline6 (>= 6.0), libsqlite3-0 (>= 3.5.9), libtinfo5
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.23)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.14)
+ libc6 (>= 2.14), libcurl3-gnutls (>= 7.16.2), liblua5.2-0, libquvi-scripts
+ libreadline7 (= 7.0-3), libtinfo-dev, dpkg (>= 1.15.4) | install-info
+ libreadline6-dev (= 6.3-8+b3)
+ readline-common, libc6 (>= 2.15), libtinfo5 (>= 6)
+ readline-common, libc6 (>= 2.3), libtinfo5
+ readline-common, libc6 (>= 2.15), libtinfo5
+ libreadline6 (= 6.3-8+b3), libtinfo-dev, dpkg (>= 1.15.4) | install-info
+ perl
+ perl
+ libc6 (>= 2.7), libgcrypt11 (>= 1.4.5), libgnutls26 (>= 2.12.6.1-0), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libgmp10, libgnutls30 (>= 3.5.6), libhogweed4, libnettle6, zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libgmp10, libgnutls-deb0-28 (>= 3.3.0), libhogweed2, libnettle4, zlib1g (>= 1:1.1.4)
+ libsasl2-modules-db (>= 2.1.27~101-g0780600+dfsg-3), libc6 (>= 2.15)
+ libc6 (>= 2.15), libsasl2-modules-db (>= 2.1.26.dfsg1-13+deb8u1)
+ libc6 (>= 2.14), libssl1.1 (>= 1.1.0)
+ libc6 (>= 2.14), libssl1.0.0 (>= 1.0.0)
+ libc6 (>= 2.14), libdb5.3
+ libc6 (>= 2.14), libdb5.3
+ libc6 (>= 2.14)
+ libc6 (>= 2.3.4)
+ libc6 (>= 2.14), libpcre3
+ libc6 (>= 2.14), libpcre3 (>= 8.10)
+ libsemanage-common (= 2.6-2), libaudit1 (>= 1:2.2.1), libbz2-1.0, libc6 (>= 2.14), libselinux1 (>= 2.6), libsepol1 (>= 2.6), libustr-1.0-1 (>= 1.0.4)
+ libsemanage-common (= 2.3-1), libaudit1 (>= 1:2.2.1), libbz2-1.0, libc6 (>= 2.14), libselinux1 (>= 2.1.12), libsepol1 (>= 2.1.4), libustr-1.0-1 (>= 1.0.4)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libapr1 (>= 1.4.8-2~), libaprutil1 (>= 1.2.7+dfsg), libc6 (>= 2.14), libgssapi-krb5-2 (>= 1.14+dfsg), libssl1.1 (>= 1.1.0), zlib1g (>= 1:1.1.4)
+ libapr1 (>= 1.4.8-2~), libaprutil1 (>= 1.2.7+dfsg), libc6 (>= 2.14), libgssapi-krb5-2 (>= 1.10+dfsg~), libssl1.0.0 (>= 1.0.0), zlib1g (>= 1:1.1.4)
+ perl
+ perl, sp
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libice6 (>= 1:1.0.0), libuuid1 (>= 2.16)
+ libc6 (>= 2.14), libice6 (>= 1:1.0.0), libuuid1 (>= 2.16)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17), libpci3 (>= 1:3.5.2-1), libperl5.24 (>= 5.24.0), libsensors4 (>= 1:3.0.0), libssl1.0.2 (>= 1.0.2d), libwrap0 (>= 7.6-4~), libsnmp-base
+ libc6 (>= 2.17), libpci3 (>= 1:3.5.2-1), libperl5.24 (>= 5.24.0), libsensors4 (>= 1:3.0.0), libssl1.0.2 (>= 1.0.2d), libwrap0 (>= 7.6-4~), libsnmp-base
+ libc6 (>= 2.17), libpci3 (>= 1:3.2.1-1), libperl5.20 (>= 5.20.2), libsensors4 (>= 1:3.0.0), libssl1.0.0 (>= 1.0.0), libwrap0 (>= 7.6-4~), libsnmp-base
+ libc6 (>= 2.17), libpci3 (>= 1:3.2.1-1), libperl5.20 (>= 5.20.2), libsensors4 (>= 1:3.0.0), libssl1.0.0 (>= 1.0.0), libwrap0 (>= 7.6-4~), libsnmp-base
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.14)
+ perl (>= 5.20.1-1), perlapi-5.20.1, libc6 (>= 2.14)
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.14)
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.4)
+ libc6 (>= 2.14)
+ libdata-section-perl, libtext-template-perl, perl
+ libdata-section-perl, libsub-install-perl, libtext-template-perl, perl
+ libthai0 (>= 0.1.12), libc6 (>= 2.14)
+ libthai0 (>= 0.1.12), libc6 (>= 2.14)
+ perl
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libcomerr2, libc6 (>= 2.17)
+ libcomerr2, libc6 (>= 2.17)
+ libc6 (>= 2.14), libgcrypt20 (>= 1.7.0), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libgcrypt20 (>= 1.6.1), zlib1g (>= 1:1.1.4)
+ libssl1.1 (= 1.1.0f-3+deb9u2)
+ libssl1.0.0 (= 1.0.1t-1+deb8u9), zlib1g-dev
+ libssl1.0.0 (= 1.0.1t-1+deb8u8), zlib1g-dev
+ libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0
+ libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0
+ libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0
+ libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0
+ libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0
+ libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0
+ gcc-4.8-base (= 4.8.4-1), libgcc-4.8-dev (= 4.8.4-1), libstdc++6 (>= 4.8.4-1), libc6-dev (>= 2.13-5)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libgcc-4.9-dev (= 4.9.2-10+deb8u1), libstdc++6 (>= 4.9.2-10+deb8u1), libc6-dev (>= 2.13-5)
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.18), libgcc1 (>= 1:4.2)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.18), libgcc1 (>= 1:4.1.1)
+ perl, libdata-optlist-perl, libsub-install-perl
+ perl
+ perl (>= 5.24.1-3+deb9u4), perlapi-5.24.1, libapr1 (>= 1.2.7), libc6 (>= 2.14), libsvn1 (>= 1.9)
+ perl (>= 5.24.1-3+deb9u1), perlapi-5.24.1, libapr1 (>= 1.2.7), libc6 (>= 2.14), libsvn1 (>= 1.9)
+ perl (>= 5.20.2-3+deb8u10), perlapi-5.20.2, libapr1 (>= 1.2.7), libc6 (>= 2.14), libsvn1 (>= 1.8)
+ perl (>= 5.20.2-3+deb8u8), perlapi-5.20.2, libapr1 (>= 1.2.7), libc6 (>= 2.14), libsvn1 (>= 1.8)
+ libsqlite3-0 (>= 3.7.12), libapr1 (>= 1.5.0), libaprutil1 (>= 1.4.0), libc6 (>= 2.14), libdb5.3, libexpat1 (>= 2.0.1), libldap-2.4-2 (>= 2.4.7), libsasl2-2, libserf-1-1 (>= 1.3.4), zlib1g (>= 1:1.2.0)
+ libsqlite3-0 (>= 3.7.12), libapr1 (>= 1.5.0), libaprutil1 (>= 1.4.0), libc6 (>= 2.14), libdb5.3, libexpat1 (>= 2.0.1), libldap-2.4-2 (>= 2.4.7), libsasl2-2, libserf-1-1 (>= 1.3.4), zlib1g (>= 1:1.2.0)
+ libsqlite3-0 (>= 3.7.12), libapr1 (>= 1.4.8-2~), libaprutil1 (>= 1.4.0), libc6 (>= 2.14), libdb5.3, libexpat1 (>= 2.0.1), libldap-2.4-2 (>= 2.4.7), libsasl2-2, libserf-1-1 (>= 1.2), zlib1g (>= 1:1.2.0)
+ libsqlite3-0 (>= 3.7.12), libapr1 (>= 1.4.8-2~), libaprutil1 (>= 1.4.0), libc6 (>= 2.14), libdb5.3, libexpat1 (>= 2.0.1), libldap-2.4-2 (>= 2.4.7), libsasl2-2, libserf-1-1 (>= 1.2), zlib1g (>= 1:1.2.0)
+ perl
+ libc6 (>= 2.16)
+ libc6 (>= 2.14)
+ libc6 (>= 2.4)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ tzdata, libc6 (>= 2.15), zlib1g (>= 1:1.2.2)
+ tzdata, libc6 (>= 2.15), zlib1g (>= 1:1.2.2)
+ perl (>= 5.24.1~rc3-3), perlapi-5.24.1, libc6 (>= 2.15)
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.15)
+ perl (>= 5.24.1~rc3-3), perlapi-5.24.1, libc6 (>= 2.14), libreadline7 (>= 7.0~rc2), libtinfo5 (>= 6)
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.14), libreadline6 (>= 6.3), libtinfo5
+ perl
+ perl
+ liblog-message-simple-perl | perl (<< 5.17.0), perl
+ perl, liblog-message-simple-perl | perl (<< 5.17)
+ libc6 (>= 2.2.5), perl-base (>= 5.24.1~rc3-2), perlapi-5.24.1
+ libc6 (>= 2.2.5), perl-base (>= 5.20.0-4), perlapi-5.20.0
+ libc6 (>= 2.2.5), perl-base (>= 5.24.1~rc3-2), perlapi-5.24.1
+ libc6 (>= 2.2.5), perl-base (>= 5.20.0-4), perlapi-5.20.0
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.4)
+ perl (>= 5.20.0-4), perlapi-5.20.0, libc6 (>= 2.4)
+ perl
+ libtext-charwidth-perl
+ libtext-charwidth-perl
+ libthai-data (>= 0.1.10), libc6 (>= 2.14), libdatrie1 (>= 0.2.0)
+ libthai-data (>= 0.1.10), libc6 (>= 2.14), libdatrie1 (>= 0.2.0)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libjbig0 (>= 2.0), libjpeg62-turbo (>= 1.3.1), liblzma5 (>= 5.1.1alpha+20120614), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libjbig0 (>= 2.0), libjpeg62-turbo (>= 1.3.1), liblzma5 (>= 5.1.1alpha+20120614), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libjbig0 (>= 2.0), libjpeg62-turbo (>= 1.3.1), liblzma5 (>= 5.1.1alpha+20120614), zlib1g (>= 1:1.1.4)
+ perl
+ libtinfo5 (= 6.0+20161126-1+deb9u2), ncurses-bin (>= 6.0+20151017)
+ libtinfo5 (= 5.9+20140913-1+deb8u3)
+ libc6 (>= 2.16)
+ libc6 (>= 2.15)
+ libbz2-1.0, libc6 (>= 2.14), zlib1g (>= 1:1.1.4)
+ libbz2-1.0, libc6 (>= 2.14), zlib1g (>= 1:1.1.4)
+ gcc | c-compiler, cpp, libc6-dev | libc-dev, file, autotools-dev
+ gcc | c-compiler, cpp, libc6-dev | libc-dev, file, autotools-dev
+ libtool (>= 2.4.6-2)
+ libtool (>= 2.4.2-1.11)
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.23), libgcc1 (>= 1:3.3), libstdc++6 (>= 4.1.1)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ gcc-6-base (= 6.3.0-18+deb9u1), libc6 (>= 2.2.5), libgcc1 (>= 1:3.3), libstdc++6 (>= 4.1.1)
+ gcc-4.9-base (= 4.9.2-10+deb8u1), libc6 (>= 2.2.5), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.8)
+ libc6 (>= 2.16)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17), libgmp10, libhogweed4, libnettle6
+ libc6 (>= 2.15), libssl1.0.0 (>= 1.0.0)
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.4), libsombok3 (>= 2.3.1-1~), libthai0 (>= 0.1.12), libmime-charset-perl (>= 1.006.2)
+ perl (>= 5.20.2-3+deb8u5), perlapi-5.20.2, libc6 (>= 2.4), libsombok3 (>= 2.3.1-1~), libthai0 (>= 0.1.12), libmime-charset-perl (>= 1.006.2)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ perl
+ perl, libnet-perl
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ libc6 (>= 2.17), libudev1 (>= 183)
+ libc6 (>= 2.17), libudev1 (>= 183)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ passwd, libc6 (>= 2.4)
+ passwd, libc6 (>= 2.4)
+ libv4lconvert0 (= 1.12.3-1), libc6 (>= 2.4)
+ libv4lconvert0 (= 1.6.0-2), libc6 (>= 2.4)
+ libc6 (>= 2.14), libjpeg62-turbo (>= 1.3.1)
+ libc6 (>= 2.14), libjpeg62-turbo (>= 1.3.1)
+ libc6 (>= 2.15), libssl1.0.0 (>= 1.0.0)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ perl, ca-certificates, libencode-locale-perl, libfile-listing-perl, libhtml-parser-perl, libhtml-tagset-perl, libhtml-tree-perl, libhttp-cookies-perl, libhttp-date-perl, libhttp-message-perl, libhttp-negotiate-perl, liblwp-mediatypes-perl, liblwp-protocol-https-perl, libnet-http-perl (>= 6.07), liburi-perl, libwww-robotrules-perl, netbase
+ perl, ca-certificates, libencode-locale-perl, libfile-listing-perl, libhtml-parser-perl, libhtml-tagset-perl, libhtml-tree-perl, libhttp-cookies-perl, libhttp-date-perl, libhttp-message-perl, libhttp-negotiate-perl, liblwp-mediatypes-perl, liblwp-protocol-https-perl, libnet-http-perl (>= 6.07), liburi-perl, libwww-robotrules-perl, netbase
+ perl, liburi-perl
+ libc6 (>= 2.15), libxcb1 (>= 1.11.1), libx11-data
+ libc6 (>= 2.15), libxcb1 (>= 1.2), libx11-data
+ libc6 (>= 2.15), libxcb1 (>= 1.2), libx11-data
+ libc6 (>= 2.15), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9), libuuid1 (>= 2.16), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.4)
+ libc6 (>= 2.14), libxau6, libxdmcp6
+ libc6 (>= 2.14), libxau6, libxdmcp6
+ libbsd0 (>= 0.2.0), libc6 (>= 2.4)
+ libc6 (>= 2.2.5)
+ libc6 (>= 2.14), libx11-6 (>= 2:1.6.0)
+ libc6 (>= 2.14), libx11-6 (>= 2:1.6.0)
+ perl (>= 5.24.1~rc3-2), perlapi-5.24.1, libc6 (>= 2.14), libexpat1 (>= 2.0.1), liburi-perl, libwww-perl
+ perl (>= 5.20.0-6), perlapi-5.20.0, libc6 (>= 2.14), libexpat1 (>= 2.0.1), liburi-perl, libwww-perl
+ libc6 (>= 2.15), libicu57 (>= 57.1-1~), liblzma5 (>= 5.1.1alpha+20120614), zlib1g (>= 1:1.2.3.3)
+ libc6 (>= 2.15), liblzma5 (>= 5.1.1alpha+20120614), zlib1g (>= 1:1.2.3.3)
+ libc6 (>= 2.15), liblzma5 (>= 5.1.1alpha+20120614), zlib1g (>= 1:1.2.3.3)
+ libxml2 (= 2.9.4+dfsg1-2.2+deb9u2), libicu-dev
+ libxml2 (= 2.9.1+dfsg1-5+deb8u7)
+ libxml2 (= 2.9.1+dfsg1-5+deb8u6)
+ libc6 (>= 2.14), libx11-6, libxext6, libxt6
+ libc6 (>= 2.14), libx11-6, libxext6, libxt6
+ libc6 (>= 2.14), libx11-6
+ libc6 (>= 2.14), libx11-6
+ libxml2-dev (>= 2.6.26), libxslt1.1 (= 1.1.29-2.1)
+ libxslt1.1 (= 1.1.28-2+deb8u3), libxml2-dev (>= 2.6.26)
+ libxslt1.1 (= 1.1.28-2+deb8u2), libxml2-dev (>= 2.6.26)
+ libc6 (>= 2.17), libgcrypt20 (>= 1.7.0), libxml2 (>= 2.9.0)
+ libc6 (>= 2.17), libgcrypt20 (>= 1.6.0), libxml2 (>= 2.9.0)
+ libc6 (>= 2.17), libgcrypt20 (>= 1.6.0), libxml2 (>= 2.9.0)
+ libc6 (>= 2.14), libice6 (>= 1:1.0.0), libsm6, libx11-6
+ libc6 (>= 2.14), libice6 (>= 1:1.0.0), libsm6, libx11-6
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ perl (>= 5.24.1~rc4-1), perlapi-5.24.1, libc6 (>= 2.14)
+ perl (>= 5.20.1-2), perlapi-5.20.1, libc6 (>= 2.14)
+ perl
+ perl
+ libc6 (>= 2.17), libice6 (>= 1:1.0.0), libjpeg62-turbo (>= 1.3.1), libsm6, libv4l-0 (>= 0.5.0), libx11-6
+ libc6 (>= 2.17), libice6 (>= 1:1.0.0), libjpeg62-turbo (>= 1:1.3.1), libsm6, libv4l-0 (>= 0.5.0), libx11-6
+ libc6 (>= 2.14), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libpgm-5.1-0 (>= 5.1.116~dfsg), libsodium13 (>= 0.6.0), libstdc++6 (>= 4.9)
+ perl, libimage-size-perl, liblocale-gettext-perl, liburi-perl, imagemagick
+ perl, libimage-size-perl, liblocale-gettext-perl, liburi-perl, imagemagick
+ libc-bin (>> 2.24), libc-l10n (>> 2.24), debconf (>= 0.5) | debconf-2.0
+ libc-bin (>> 2.24), libc-l10n (>> 2.24), debconf (>= 0.5) | debconf-2.0
+ libc-bin (>> 2.19), debconf (>= 0.5) | debconf-2.0
+ libacl1 (>= 2.2.51-8), libc6 (>= 2.14), libpopt0 (>= 1.14), libselinux1 (>= 1.32), cron | anacron | cron-daemon, base-passwd (>= 2.0.3.4)
+ libacl1 (>= 2.2.51-8), libc6 (>= 2.14), libpopt0 (>= 1.14), libselinux1 (>= 1.32), cron | anacron | cron-daemon, base-passwd (>= 2.0.3.4)
+ python3:any (>= 3.4~), distro-info-data
+ python (>= 2.7), python (<< 2.8)
+ libc6 (>= 2.14), libselinux1 (>= 1.32)
+ libc6 (>= 2.11), libperl4-corelibs-perl | perl (<< 5.12.3-7)
+ libc6 (>= 2.14), libelf1 (>= 0.131), libselinux1 (>= 1.32)
+ libc6 (>= 2.7), libelfg0 (>= 0.8.12), libselinux1 (>= 1.32)
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libc6 (>= 2.4), libsqlite3-0 (>= 3.5.9), lua-dbi-common
+ libc6 (>= 2.4), libsqlite3-0 (>= 3.5.9), lua-dbi-common
+ libc6 (>= 2.4), libevent-2.0-5 (>= 2.0.10-stable), lua-socket
+ libc6 (>= 2.2.5), libevent-2.0-5 (>= 2.0.10-stable), lua-socket
+ libc6 (>= 2.4), libexpat1 (>= 2.0.1)
+ libc6 (>= 2.4), libexpat1 (>= 2.0.1)
+ libc6 (>= 2.4)
+ libc6 (>= 2.4)
+ libc6 (>= 2.9)
+ lua-lpeg
+ lua-lpeg
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), lua-bitop
+ libc6 (>= 2.14), lua-bitop
+ libc6 (>= 2.14), libpcre3
+ libc6 (>= 2.14), libpcre3 (>= 8.10)
+ lua-socket, libc6 (>= 2.4), libssl1.1 (>= 1.1.0)
+ libc6 (>= 2.4), libssl1.0.0 (>= 1.0.1), lua-socket
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ libc6 (>= 2.4), libsqlite3-0 (>= 3.5.9)
+ libc6 (>= 2.4), libsqlite3-0 (>= 3.5.9)
+ libc6 (>= 2.14), libreadline7 (>= 6.0)
+ libc6 (>= 2.14), libreadline6 (>= 6.0)
+ libc6 (>= 2.14), libreadline7 (>= 6.0)
+ libc6 (>= 2.14), libreadline6 (>= 6.0)
+ libc6 (>= 2.14), libreadline7 (>= 6.0)
+ libc6 (>= 2.14), libreadline6 (>= 6.0)
+ libc6 (>= 2.14), libgcc1 (>= 1:3.3), libluajit-5.1-common (= 2.0.4+dfsg-1)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libluajit-5.1-common (= 2.0.3+dfsg-3)
+ libblkid1 (>= 2.24.2), libc6 (>= 2.15), libdevmapper-event1.02.1 (>= 2:1.02.74), libdevmapper1.02.1 (>= 2:1.02.135), liblvm2app2.2 (>= 2.02.168), libreadline5 (>= 5.2), libudev1 (>= 183), init-system-helpers (>= 1.18~), lsb-base, dmsetup, dmeventd
+ libc6 (>= 2.15), libdevmapper-event1.02.1 (>= 2:1.02.74), libdevmapper1.02.1 (>= 2:1.02.90), libreadline5 (>= 5.2), libudev1 (>= 183), init-system-helpers (>= 1.18~), lsb-base, dmsetup (>> 2:1.02.47), dmeventd (>> 2:1.02.90), initscripts (>= 2.88dsf-13.3)
+ liblxc1 (= 1:2.0.7-2+deb9u2), python3-lxc (= 1:2.0.7-2+deb9u2), init-system-helpers (>= 1.18~), libapparmor1 (>= 2.6~devel), libc6 (>= 2.17), libcap2 (>= 1:2.10), libgnutls30 (>= 3.5.0), libseccomp2 (>= 0.0.0~20120605), libselinux1 (>= 1.32), python3:any (>= 3.3.2-2~), lsb-base (>= 3.0-6)
+ init-system-helpers (>= 1.18~), libapparmor1 (>= 2.6~devel), libc6 (>= 2.17), libcap2 (>= 1:2.10), libseccomp2 (>= 2.1.0), libselinux1 (>= 1.32), python3 (<< 3.5), python3 (>= 3.4~)
+ init-system-helpers (>= 1.18~), libapparmor1 (>= 2.6~devel), libc6 (>= 2.17), libcap2 (>= 1:2.10), libseccomp2 (>= 2.1.0), libselinux1 (>= 1.32), python3 (<< 3.5), python3 (>= 3.4~)
+ libbsd0 (>= 0.0), libbz2-1.0, libc6 (>= 2.15), libgnutls30 (>= 3.5.6), libidn11 (>= 1.13), libncursesw5 (>= 6), libtinfo5 (>= 6), zlib1g (>= 1:1.1.4), lynx-common
+ lynx-cur (>= 2.8.9dev1-2+deb8u1)
+ lynx (>= 2.8.9dev8-2~)
+ libbsd0 (>= 0.0), libbz2-1.0, libc6 (>= 2.15), libgcrypt20 (>= 1.6.0), libgnutls-deb0-28 (>= 3.3.0), libidn11 (>= 1.13), libncursesw5 (>= 5.6+20070908), libtinfo5, zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+ libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.4.0)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ groff-base (>= 1.18.1.1-15), bsdmainutils, debconf (>= 1.2.0) | debconf-2.0, libc6 (>= 2.17), libgdbm3 (>= 1.8.3), libpipeline1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+ groff-base (>= 1.18.1.1-15), bsdmainutils, debconf (>= 1.2.0) | debconf-2.0, libc6 (>= 2.17), libgdbm3 (>= 1.8.3), libpipeline1 (>= 1.3.0), zlib1g (>= 1:1.1.4)
+ manpages
+ manpages
+ debconf (>= 0.5) | debconf-2.0
+ libtimedate-perl, perl
+ libtimedate-perl, perl
+ libc6 (>= 2.14), python (<< 2.8), python (>= 2.7~), python:any (<< 2.8), python:any (>= 2.7~), ucf (>= 2.0020), mercurial-common (= 4.0-1+deb9u1)
+ libc6 (>= 2.14), python (>= 2.7), python (<< 2.8), ucf (>= 2.0020), mercurial-common (= 3.1.2-2+deb8u6)
+ libc6 (>= 2.14), python (>= 2.7), python (<< 2.8), ucf (>= 2.0020), mercurial-common (= 3.1.2-2+deb8u4)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~), libjs-excanvas
+ python (>= 2.7), python (<< 2.8), libjs-excanvas
+ python (>= 2.7), python (<< 2.8), libjs-excanvas
+ python (>= 2.7), python (<< 2.8), mercurial (>= 1.9.1-1~), python-dulwich (>= 0.9.1)
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ libc6 (>= 2.14), adduser
+ libc6 (>= 2.14), adduser
+ libkmod2 (= 18-3), kmod
+ libc6 (>= 2.15), libncurses5 (>= 5.5-5~), libtinfo5
+ libc6 (>= 2.4), libncurses5 (>= 5.5-5~), libtinfo5
+ libc6 (>= 2.3.6-2)
+ libc6 (>= 2.3.6-2)
+ libc6 (>= 2.3.6-2)
+ libassuan0 (>= 2.0.1), libc6 (>= 2.15), libcomerr2 (>= 1.01), libgnutls30 (>= 3.5.6), libgpg-error0 (>= 1.14), libgpgme11 (>= 1.2.0), libgssapi-krb5-2 (>= 1.14+dfsg), libidn11 (>= 1.13), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libncursesw5 (>= 6), libnotmuch4 (>= 0.21~rc1), libsasl2-2, libtinfo5 (>= 6), libtokyocabinet9 (>= 1.4.47)
+ libassuan0 (>= 2.0.1), libc6 (>= 2.15), libcomerr2 (>= 1.01), libgnutls30 (>= 3.5.6), libgpg-error0 (>= 1.14), libgpgme11 (>= 1.2.0), libgssapi-krb5-2 (>= 1.14+dfsg), libidn11 (>= 1.13), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libncursesw5 (>= 6), libnotmuch4 (>= 0.21~rc1), libsasl2-2, libtinfo5 (>= 6), libtokyocabinet9 (>= 1.4.47)
+ libassuan0 (>= 2.0.1), libc6 (>= 2.15), libcomerr2 (>= 1.01), libgnutls-deb0-28 (>= 3.3.0), libgpg-error0 (>= 1.14), libgpgme11 (>= 1.2.0), libgssapi-krb5-2 (>= 1.10+dfsg~), libidn11 (>= 1.13), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libncursesw5 (>= 5.6+20070908), libsasl2-2, libtinfo5, libtokyocabinet9 (>= 1.4.47)
+ libassuan0 (>= 2.0.1), libc6 (>= 2.15), libcomerr2 (>= 1.01), libgnutls-deb0-28 (>= 3.3.0), libgpg-error0 (>= 1.14), libgpgme11 (>= 1.2.0), libgssapi-krb5-2 (>= 1.10+dfsg~), libidn11 (>= 1.13), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libncursesw5 (>= 5.6+20070908), libsasl2-2, libtinfo5, libtokyocabinet9 (>= 1.4.47)
+ libc6 (>= 2.14), libncursesw5 (>= 6), libtinfo5 (>= 6), zlib1g (>= 1:1.1.4)
+ dpkg (>= 1.15.4) | install-info, libc6 (>= 2.14), libncursesw5 (>= 5.6+20070908), libtinfo5
+ python-lxml, python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python (>= 2.7), python (<< 2.8), python-lxml
+ libc6 (>= 2.14), libselinux1 (>= 1.32)
+ libc6 (>= 2.14)
+ lsb-base (>= 3.0-6)
+ netcat-traditional (>= 1.10-39)
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ lsb-base (>= 3.0-6), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~)
+ lsb-base (>= 3.2-14), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~)
+ libnginx-mod-http-echo (= 1.10.3-1+deb9u1), nginx-common (= 1.10.3-1+deb9u1), libc6 (>= 2.14), libpcre3, libssl1.1 (>= 1.1.0), zlib1g (>= 1:1.1.4)
+ nginx-common (= 1.6.2-5+deb8u5), libc6 (>= 2.14), libpcre3 (>= 1:8.35), libssl1.0.0 (>= 1.0.1), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.15), libgcc1 (>= 1:3.0), liblinear3 (>= 2.01+dfsg), liblua5.3-0, libpcap0.8 (>= 0.9.8), libpcre3, libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2)
+ libc6 (>= 2.15), libgcc1 (>= 1:4.1.1), liblinear1 (>= 1.6), liblua5.2-0, libpcap0.8 (>= 0.9.8), libpcre3 (>= 1:8.35), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.9)
+ libc6 (>= 2.4)
+ libc6 (>= 2.3.4)
+ libnotmuch4 (= 0.23.7-3), libc6 (>= 2.14), libglib2.0-0 (>= 2.28.0), libgmime-2.6-0 (>= 2.6.4), libtalloc2 (>= 2.0.4~git20101213), zlib1g (>= 1:1.2.6)
+ libnotmuch3 (= 0.18.2-1), libc6 (>= 2.14), libglib2.0-0 (>= 2.12.0), libgmime-2.6-0 (>= 2.6.4), libtalloc2 (>= 2.0.4~git20101213), zlib1g (>= 1:1.2.6)
+ adduser, lsb-base (>= 3.2-13), netbase, libc6 (>= 2.17), libcap2 (>= 1:2.10), libedit2 (>= 2.11-20080614), libopts25 (>= 1:5.18.12), libssl1.1 (>= 1.1.0)
+ adduser, lsb-base (>= 3.2-13), netbase, libc6 (>= 2.17), libcap2 (>= 1:2.10), libedit2 (>= 2.11-20080614), libopts25 (>= 1:5.18.4), libssl1.0.0 (>= 1.0.1d)
+ netbase, libc6 (>= 2.17), libssl1.1 (>= 1.1.0)
+ netbase, libc6 (>= 2.17), libssl1.0.0 (>= 1.0.1d)
+ libc6 (>= 2.17), liboath0 (>= 2.6.0)
+ libc6 (>= 2.17), liboath0 (>= 1.12.0)
+ libc6 (>= 2.14), libzip4 (>= 0.10), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libzip2 (>= 0.10), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.15), netbase, adduser, iproute2 | net-tools, lsb-base (>= 3.0-6)
+ libc6 (>= 2.14), netbase, adduser, iproute2 | net-tools
+ libc6 (>= 2.17), libncurses5 (>= 6), libopenipmi0, libpopt0 (>= 1.14), libsnmp30 (>= 5.7.3+dfsg-1.5+b1~dfsg), libssl1.1 (>= 1.1.0), libtinfo5 (>= 6)
+ libc6 (>= 2.14), libncurses5 (>= 5.5-5~), libopenipmi0, libpopt0 (>= 1.14), libsnmp30 (>= 5.7.2.1~dfsg), libtinfo5
+ adduser (>= 3.10), dpkg (>= 1.7.0), passwd, libc6 (>= 2.17), libedit2 (>= 2.11-20080614), libgssapi-krb5-2 (>= 1.14+dfsg), libselinux1 (>= 1.32), libssl1.0.2 (>= 1.0.2d), zlib1g (>= 1:1.1.4)
+ adduser (>= 3.10), dpkg (>= 1.7.0), passwd, libc6 (>= 2.17), libedit2 (>= 2.11-20080614), libgssapi-krb5-2 (>= 1.14+dfsg), libselinux1 (>= 1.32), libssl1.0.2 (>= 1.0.2d), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libedit2 (>= 2.11-20080614), libgssapi-krb5-2 (>= 1.12.1+dfsg-2), libselinux1 (>= 1.32), libssl1.0.0 (>= 1.0.1), zlib1g (>= 1:1.1.4), adduser (>= 3.10), dpkg (>= 1.7.0), passwd
+ libc6 (>= 2.17), libedit2 (>= 2.11-20080614), libgssapi-krb5-2 (>= 1.12.1+dfsg-2), libselinux1 (>= 1.32), libssl1.0.0 (>= 1.0.1), zlib1g (>= 1:1.1.4), adduser (>= 3.10), dpkg (>= 1.7.0), passwd
+ adduser (>= 3.9), dpkg (>= 1.9.0), libpam-modules (>= 0.72-9), libpam-runtime (>= 0.76-14), lsb-base (>= 4.1+Debian3), openssh-client (= 1:7.4p1-10+deb9u4), openssh-sftp-server, procps, ucf (>= 0.28), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.14+dfsg), libkrb5-3 (>= 1.13~alpha1+dfsg), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), libssl1.0.2 (>= 1.0.2d), libsystemd0, libwrap0 (>= 7.6-4~), zlib1g (>= 1:1.1.4)
+ adduser (>= 3.9), dpkg (>= 1.9.0), libpam-modules (>= 0.72-9), libpam-runtime (>= 0.76-14), lsb-base (>= 4.1+Debian3), openssh-client (= 1:7.4p1-10+deb9u3), openssh-sftp-server, procps, ucf (>= 0.28), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.14+dfsg), libkrb5-3 (>= 1.13~alpha1+dfsg), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), libssl1.0.2 (>= 1.0.2d), libsystemd0, libwrap0 (>= 7.6-4~), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.12.1+dfsg-2), libkrb5-3 (>= 1.6.dfsg.2), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), libssl1.0.0 (>= 1.0.1), libwrap0 (>= 7.6-4~), zlib1g (>= 1:1.1.4), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), openssh-client (= 1:6.7p1-5+deb8u7), libpam-runtime (>= 0.76-14), libpam-modules (>= 0.72-9), adduser (>= 3.9), dpkg (>= 1.9.0), lsb-base (>= 4.1+Debian3), procps, openssh-sftp-server
+ libc6 (>= 2.17), libcomerr2 (>= 1.01), libgssapi-krb5-2 (>= 1.12.1+dfsg-2), libkrb5-3 (>= 1.6.dfsg.2), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), libssl1.0.0 (>= 1.0.1), libwrap0 (>= 7.6-4~), zlib1g (>= 1:1.1.4), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), openssh-client (= 1:6.7p1-5+deb8u4), libpam-runtime (>= 0.76-14), libpam-modules (>= 0.72-9), adduser (>= 3.9), dpkg (>= 1.9.0), lsb-base (>= 4.1+Debian3), procps, openssh-sftp-server
+ openssh-client (= 1:7.4p1-10+deb9u4), libc6 (>= 2.17)
+ openssh-client (= 1:7.4p1-10+deb9u3), libc6 (>= 2.17)
+ libc6 (>= 2.17), openssh-client (= 1:6.7p1-5+deb8u7)
+ libc6 (>= 2.17), openssh-client (= 1:6.7p1-5+deb8u4)
+ libc6 (>= 2.15), libssl1.1 (>= 1.1.0)
+ libc6 (>= 2.15), libssl1.0.0 (>= 1.0.1k-3+deb8u3)
+ libc6 (>= 2.15), libssl1.0.0 (>= 1.0.1k-3+deb8u3)
+ libc6 (>= 2.4), grub-common
+ libc6 (>= 2.4)
+ libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ p7zip (= 16.02+dfsg-3+deb9u1), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.14), libffi6 (>= 3.0.4), libgmp10, liblua5.1-0, libluajit-5.1-2, libpcre3, libyaml-0-2, zlib1g (>= 1:1.1.4), pandoc-data (>= 1.17.2~dfsg-3), pandoc-data (<< 1.17.2~dfsg-3.~)
+ pandoc-data, libc6 (>= 2.14), libffi6 (>= 3.0.4), libgmp10, libicu52 (>= 52~m1-1~), liblua5.1-0, libpcre3 (>= 8.10), libyaml-0-2, zlib1g (>= 1:1.1.4)
+ perl, procps, sysstat, perl:any
+ perl-modules, perl
+ libc6 (>= 2.11), libparted2 (= 3.2-17), libreadline7 (>= 6.0), libtinfo5 (>= 6)
+ libc6 (>= 2.11), libparted2 (= 3.2-7), libreadline6 (>= 6.0), libtinfo5
+ pwgen, gnupg2 | gnupg, tree (>= 1.7.0)
+ pwgen, gnupg2 | gnupg, tree (>= 1.7.0)
+ libaudit1 (>= 1:2.2.1), libc6 (>= 2.14), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), libsemanage1 (>= 2.0.3), libpam-modules
+ libaudit1 (>= 1:2.2.1), libc6 (>= 2.14), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), libsemanage1 (>= 2.0.3), libpam-modules, debianutils (>= 2.15.2)
+ libc6 (>= 2.17)
+ libc6 (>= 2.17)
+ libc6 (>= 2.14), libkmod2 (>= 5~), libpci3 (= 1:3.5.2-1)
+ libc6 (>= 2.14), libpci3 (= 1:3.2.1-3)
+ perl-base (= 5.24.1-3+deb9u4), perl-modules-5.24 (>= 5.24.1-3+deb9u4), libperl5.24 (= 5.24.1-3+deb9u4)
+ perl-base (= 5.20.2-3+deb8u11), perl-modules (>= 5.20.2-3+deb8u11), libbz2-1.0, libc6 (>= 2.14), libdb5.3, libgdbm3 (>= 1.8.3), zlib1g (>= 1:1.2.2.3)
+ perl-base (>= 5.20.2-3+deb8u11)
+ libassuan0 (>= 2.0.1), libc6 (>= 2.14), libgpg-error0 (>= 1.14), libncursesw5 (>= 6), libtinfo5 (>= 6)
+ libc6 (>= 2.14), libncursesw5 (>= 5.6+20070908), libtinfo5
+ libc6 (>= 2.14), libglib2.0-0 (>= 2.16.0), libdpkg-perl
+ libc6 (>= 2.14), libglib2.0-0 (>= 2.16.0)
+ perl, gettext, perl-modules, libsgmls-perl, opensp
+ perl, gettext, perl-modules, libsgmls-perl, sp
+ libc6 (>= 2.14), libdb5.3, libicu57 (>= 57.1-1~), libsasl2-2, libssl1.1 (>= 1.1.0), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~), netbase, adduser (>= 3.48), dpkg (>= 1.8.3), lsb-base (>= 3.0-6), ssl-cert, cpio, postfix-sqlite
+ libc6 (>= 2.14), libdb5.3, libsasl2-2, libsqlite3-0 (>= 3.5.9), libssl1.0.0 (>= 1.0.0), debconf (>= 0.5) | debconf-2.0, netbase, adduser (>= 3.48), dpkg (>= 1.8.3), lsb-base (>= 3.0-6), ssl-cert, cpio
+ adduser, debconf, libberkeleydb-perl, libnetaddr-ip-perl, libnet-dns-perl, libnet-server-perl (>= 0.87), perl, ucf (>= 0.28), debconf (>= 0.5) | debconf-2.0
+ adduser, debconf, libberkeleydb-perl, libnet-dns-perl, libnet-server-perl (>= 0.87), perl, ucf (>= 0.28), debconf (>= 0.5) | debconf-2.0
+ libc6 (>= 2.4), libglib2.0-0 (>= 2.16.0)
+ libc6 (>= 2.4), libglib2.0-0 (>= 2.16.0)
+ libc6 (>= 2.15), libncurses5 (>= 6), libncursesw5 (>= 6), libprocps6, libtinfo5 (>= 6), lsb-base (>= 3.0-10), init-system-helpers (>= 1.29~)
+ libc6 (>= 2.15), libncurses5 (>= 5.5-5~), libncursesw5 (>= 5.6+20070908), libprocps3, libtinfo5, lsb-base (>= 3.0-10), initscripts
+ adduser, lsb-base, lua-expat (>= 1.2.0), lua-filesystem (>= 1.4.2-3~), lua5.1, lua5.1-expat, lua5.1-filesystem, lua5.1-sec, lua5.1-socket, ssl-cert, libc6 (>= 2.14), libidn11 (>= 1.13), libssl1.1 (>= 1.1.0)
+ adduser, ssl-cert, lua5.1, lua5.1-expat, lua-expat (>= 1.2.0), lua5.1-socket, lua5.1-filesystem, lua-filesystem (>= 1.4.2-3~), libc6 (>= 2.14), libidn11 (>= 1.13), libssl1.0.0 (>= 1.0.0)
+ libc6 (>= 2.14), libgcc1 (>= 1:3.0), libprotobuf10, libprotoc10, libstdc++6 (>= 5.2)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libprotobuf9, libprotoc9, libstdc++6 (>= 4.9), libprotobuf-c-dev (= 1.0.2-1)
+ libc6 (>= 2.14), libselinux1 (>= 1.32), libtinfo5 (>= 6)
+ libc6 (>= 2.14), libtinfo5
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ perl:any
+ perl
+ python2.7 (>= 2.7.13-1~), libpython-stdlib (= 2.7.13-2)
+ python2.7 (>= 2.7.9-1~), libpython-stdlib (= 2.7.9-1)
+ python (<< 2.8), python (>= 2.7~), python:any (<< 2.8), python:any (>= 2.7.5-5~), libapt-inst2.0 (>= 1.4~beta3), libapt-pkg5.0 (>= 1.4~beta3), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2), python-apt-common, gnupg, dirmngr | gnupg (<< 2)
+ python (>= 2.7), python (<< 2.8), libapt-inst1.5 (>= 1.0.4~), libapt-pkg4.12 (>= 1.0.9.8), libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.4.0), python-apt-common
+ python | python3
+ python-cffi-backend (<< 1.9.1-2+c), python-cffi-backend (>= 1.9.1-2), python-pycparser, python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python (<< 2.8), python:any (>= 2.7.5-5~), python-pycparser, python (>= 2.7~), libc6 (>= 2.14), libffi6 (>= 3.0.4)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~), python-pkg-resources
+ python:any (>= 2.7.5-5~), python, python:any (<< 2.8), python-pkg-resources
+ python3-pkg-resources
+ python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python (>= 2.7), python (<< 2.8)
+ python (<< 2.8), python (>= 2.7~), python:any (<< 2.8), python:any (>= 2.7.5-5~), libc6 (>= 2.14), libgmp10
+ python (<< 2.8), python (>= 2.7~), python:any (>= 2.7.5-5~), libc6 (>= 2.14), libgmp10
+ python (<< 2.8), python (>= 2.7~), python-cffi-backend-api-min (<= 9729), python-cffi-backend-api-max (>= 9729), python-enum34, python-idna (>= 2.0), python-ipaddress, python-pyasn1 (>= 0.1.8), python-setuptools (>= 11.3), python-six (>= 1.4.1), python:any (<< 2.8), python:any (>= 2.7.5-5~), libc6 (>= 2.4), libssl1.1 (>= 1.1.0)
+ python (<< 2.8), python (>= 2.7~), python-cffi, python-pkg-resources, python-six, python:any (>= 2.7.5-5~), libc6 (>= 2.4), libssl1.0.0 (>= 1.0.1)
+ python (= 2.7.13-2), libpython-dev (= 2.7.13-2), python2.7-dev (>= 2.7.13-1~)
+ python (= 2.7.9-1), libpython-dev (= 2.7.9-1), python2.7-dev (>= 2.7.9-1~)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python:any (>= 2.7.5-5~), python:any (<< 2.8)
+ python (<< 2.8), python (>= 2.7~), python:any (<< 2.8), python:any (>= 2.7.5-5~), libc6 (>= 2.14)
+ python (>= 2.7), python (<< 2.8), libc6 (>= 2.14)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python (>= 2.7), python (<< 2.8)
+ python:any (>= 2.7.5-5~), python:any (<< 2.8)
+ python:any (>= 2.7.5-5~), python:any (<< 2.8), python, python-hachoir-parser (>= 1.3)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~), python-hachoir-core (>= 1.3)
+ python, python:any (<< 2.8), python:any (>= 2.7.5-5~), python-hachoir-parser (>= 1.0), python-urwid (>= 0.9.4)
+ python-pkg-resources, python-six, python-webencodings, python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python-six, python:any (>= 2.7.5-5~), python:any (<< 2.8)
+ python (<< 2.8), python (>= 2.7), python:any (>= 2.6.6-7~), libc6 (>= 2.14), libxml2 (>= 2.9.0), libxslt1.1 (>= 1.1.26), zlib1g (>= 1:1.1.4)
+ python (>= 2.7), python (<< 2.8), libc6 (>= 2.14), libxml2 (>= 2.9.0), libxslt1.1 (>= 1.1.26), zlib1g (>= 1:1.1.4)
+ python2.7-minimal (>= 2.7.13-1~), dpkg (>= 1.13.20)
+ python2.7-minimal (>= 2.7.9-1~), dpkg (>= 1.13.20)
+ python-openssl, python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python-openssl, python, python-support (>= 0.90.0)
+ python-cryptography (>= 1.3.4), python-six (>= 1.5.2), python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python:any (>= 2.7.5-5~), python-cryptography, python-six, python:any (<< 2.8)
+ ca-certificates, python-pip-whl (= 9.0.1-2), python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ ca-certificates, python-colorama, python-distlib, python-html5lib, python-pkg-resources, python-requests, python-setuptools (>= 0.6c1), python-six, python, python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ ca-certificates
+ python-chardet-whl, python-colorama-whl, python-distlib-whl, python-html5lib-whl, python-requests-whl, python-setuptools-whl, python-six-whl, python-urllib3-whl
+ python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python:any (>= 2.7), python:any (<< 2.8)
+ python (>= 2.7), python (<< 2.8), python:any (>= 2.6.6-7~)
+ python (>= 2.7), python (<< 2.8)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python (>= 2.7), python (<< 2.8)
+ python-ply-lex-3.8, python-ply-yacc-3.8, python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python-ply (>= 3.2), python-ply (<< 3.5) | python-ply-yacc-3.2, python-ply-lex-3.2, python:any (>= 2.7.5-5~), python:any (<< 2.8)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python (>= 2.7), python (<< 2.8)
+ python (<< 2.8), python (>= 2.7), python:any (>= 2.6.6-7~)
+ python (>= 2.7), python (<< 2.8)
+ python (>= 2.7), python (<< 2.8)
+ python-urllib3 (>= 1.19.1), python:any (<< 2.8), python:any (>= 2.7.5-5~), ca-certificates, python-chardet, python-urllib3 (<< 1.19.2)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~), ca-certificates, python-chardet, python-urllib3 (>= 1.9.1)
+ ca-certificates, python-urllib3-whl
+ python-pkg-resources (= 33.1.1-1), python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python:any (>= 2.7), python:any (<< 2.8), python-pkg-resources (= 5.5.1-1)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python:any (>= 2.7.5-5~), python:any (<< 2.8)
+ python (>= 2.5), python-minimal, dpkg (>= 1.14.19)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~), python-six
+ python:any (<< 2.8), python:any (>= 2.7.5-5~), python-six
+ python-six-whl
+ python (>= 2.7), python (<< 2.8), libc6 (>= 2.4)
+ python (>= 2.7), python (<< 2.8), libc6 (>= 2.2.5)
+ python, python-pip-whl (>= 8.1.1-2), python-pkg-resources
+ python, python-pip-whl, python-pkg-resources, python-setuptools-whl
+ python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python:any (<< 2.8), python:any (>= 2.7.5-5~)
+ python2.7-minimal (= 2.7.13-2+deb9u3), libpython2.7-stdlib (= 2.7.13-2+deb9u3), mime-support
+ python2.7-minimal (= 2.7.13-2+deb9u2), libpython2.7-stdlib (= 2.7.13-2+deb9u2), mime-support
+ python2.7-minimal (= 2.7.9-2+deb8u2), libpython2.7-stdlib (= 2.7.9-2+deb8u2), mime-support
+ python2.7-minimal (= 2.7.9-2+deb8u1), libpython2.7-stdlib (= 2.7.9-2+deb8u1), mime-support
+ python2.7 (= 2.7.13-2+deb9u3), libpython2.7-dev (= 2.7.13-2+deb9u3), libpython2.7 (= 2.7.13-2+deb9u3), libexpat1-dev
+ python2.7 (= 2.7.13-2+deb9u2), libpython2.7-dev (= 2.7.13-2+deb9u2), libpython2.7 (= 2.7.13-2+deb9u2), libexpat1-dev
+ python2.7 (= 2.7.9-2+deb8u2), libpython2.7-dev (= 2.7.9-2+deb8u2), libpython2.7 (= 2.7.9-2+deb8u2), libexpat1-dev
+ python2.7 (= 2.7.9-2+deb8u1), libpython2.7-dev (= 2.7.9-2+deb8u1), libpython2.7 (= 2.7.9-2+deb8u1), libexpat1-dev
+ libpython2.7-minimal (= 2.7.13-2+deb9u3), zlib1g (>= 1:1.2.0)
+ libpython2.7-minimal (= 2.7.13-2+deb9u2), zlib1g (>= 1:1.2.0)
+ libpython2.7-minimal (= 2.7.9-2+deb8u2), zlib1g (>= 1:1.2.0)
+ libpython2.7-minimal (= 2.7.9-2+deb8u1), zlib1g (>= 1:1.2.0)
+ python3.5 (>= 3.5.3-1~), libpython3-stdlib (= 3.5.3-1), dh-python
+ python3.4 (>= 3.4.2-0), python3-minimal (= 3.4.2-2), libpython3-stdlib (= 3.4.2-2), dh-python
+ python3.5-minimal (>= 3.5.3-1~), dpkg (>= 1.13.20)
+ python3.4-minimal (>= 3.4.2-0), dpkg (>= 1.13.20)
+ python3:any (>= 3.3.2-2~)
+ python3:any (>= 3.3), python3:any (<< 3.5)
+ python-pip-whl (>= 8.1.1-2), python3, python3-pkg-resources, python3:any (>= 3.3.2-2~)
+ python-pip-whl, python-setuptools-whl, python3, python3-pkg-resources, python3:any (>= 3.3.2-2~)
+ python3.4-minimal (= 3.4.2-1+deb8u1), libpython3.4-stdlib (= 3.4.2-1+deb8u1), mime-support
+ python3.4-minimal (= 3.4.2-1), libpython3.4-stdlib (= 3.4.2-1), mime-support
+ libpython3.4-minimal (= 3.4.2-1+deb8u1), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+ libpython3.4-minimal (= 3.4.2-1), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+ libc6 (>= 2.11), libpng16-16 (>= 1.6.2-1), libqrencode3 (>= 3.3.0)
+ libc6 (>= 2.7), libpng12-0 (>= 1.2.13-4), libqrencode3 (>= 3.3.0)
+ libc6 (>= 2.14), libcurl3-gnutls (>= 7.16.2), libglib2.0-0 (>= 2.24.0), libjson-glib-1.0-0 (>= 0.12.0), libquvi-0.9-0.9.3, libxml2 (>= 2.7.4)
+ libc6 (>= 2.14), libcurl3-gnutls (>= 7.16.2), libquvi7 (>= 0.4.0)
+ python-radicale (= 1.1.1+20160115-4), python, adduser
+ python-radicale (= 1.1.1+20160115-2), python, adduser
+ python-radicale (= 0.9-1+deb8u1), python, adduser
+ dpkg (>= 1.15.4) | install-info
+ dpkg (>= 1.15.4) | install-info
+ libc6 (>= 2.14), libcomerr2 (>= 1.01), libuuid1 (>= 2.16)
+ libc6 (>= 2.14), libuuid1 (>= 2.16)
+ perl
+ perl
+ binutils, file, lsof, net-tools, ucf (>= 0.28), perl:any
+ file, net-tools, binutils, ucf (>= 0.28), perl
+ libacl1 (>= 2.2.51-8), libattr1 (>= 1:2.4.46-8), libc6 (>= 2.15), libpopt0 (>= 1.14), lsb-base (>= 3.2-14), base-files (>= 4.0.1), init-system-helpers (>= 1.18~)
+ libacl1 (>= 2.2.51-8), libattr1 (>= 1:2.4.46-8), libc6 (>= 2.15), libpopt0 (>= 1.14), lsb-base (>= 3.2-14), base-files (>= 4.0.1)
+ libc6 (>= 2.17), libestr0 (>= 0.1.4), libfastjson4 (>= 0.99.3), liblogging-stdlog0 (>= 1.0.2), liblognorm5 (>= 1.1.2), libsystemd0 (>= 209), libuuid1 (>= 2.16), zlib1g (>= 1:1.1.4), init-system-helpers (>= 1.47~), lsb-base (>= 3.2-14)
+ libc6 (>= 2.17), libestr0 (>= 0.1.4), libjson-c2 (>= 0.10), liblogging-stdlog0 (>= 1.0.2), liblognorm1 (>= 0.3.0), libuuid1 (>= 2.16), zlib1g (>= 1:1.1.4), init-system-helpers (>= 1.18~), lsb-base (>= 3.2-14), initscripts (>= 2.88dsf-13.3)
+ libc6 (>= 2.15), libpam0g (>= 0.99.7.1), libtinfo5 (>= 6)
+ libc6 (>= 2.15), libpam0g (>= 0.99.7.1), libtinfo5
+ dpkg (>= 1.15.4) | install-info
+ perl
+ libc6 (>= 2.14), libglib2.0-0 (>= 2.35.9), libxml2 (>= 2.7.4)
+ libc6 (>= 2.14), libglib2.0-0 (>= 2.35.9), libxml2 (>= 2.7.4)
+ debianutils (>= 2.2), lsb-base (>= 3.2-14), init-system-helpers (>= 1.18~), libc6 (>= 2.17), libcap-ng0, libgcc1 (>= 1:3.0), libselinux1 (>= 1.32), libstdc++6 (>= 5.2)
+ init-system-helpers (>= 1.18~), libc6 (>= 2.17), libcap-ng0, libgcc1 (>= 1:4.1.1), libselinux1 (>= 1.32), libstdc++6 (>= 4.9), debianutils (>= 2.2), lsb-base (>= 3.2-14)
+ libc6 (>= 2.15), libssl1.1 (>= 1.1.0), libwrap0 (>= 7.6-4~)
+ libc6 (>= 2.15), libssl1.0.0 (>= 1.0.0), libwrap0 (>= 7.6-4~)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libsp1c2 (>= 1.3.4-1.2.1-44), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.14), libreadline7 (>= 6.0), libsqlite3-0 (= 3.16.2-5+deb9u1)
+ libc6 (>= 2.14), libreadline6 (>= 6.0), libsqlite3-0 (= 3.8.7.1-1+deb8u2), libtinfo5
+ libc6 (>= 2.14), libreadline6 (>= 6.0), libsqlite3-0 (= 3.8.7.1-1+deb8u1), libtinfo5
+ lsb-base
+ libc6 (>= 2.15), libcap2 (>= 1:2.10), libcomerr2 (>= 1.01), libdb5.3, libecap2, libexpat1 (>= 2.0.1), libgcc1 (>= 1:4.1.1), libgssapi-krb5-2 (>= 1.10+dfsg~), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.10+dfsg~), libldap-2.4-2 (>= 2.4.7), libltdl7 (>= 2.4.2), libnetfilter-conntrack3, libnettle4, libpam0g (>= 0.99.7.1), libsasl2-2, libstdc++6 (>= 4.9), libxml2 (>= 2.7.4), netbase, adduser, logrotate (>= 3.5.4-1), squid3-common (= 3.4.8-6+deb8u5), lsb-base
+ squid-langpack (>= 20110214-1)
+ libc6 (>= 2.14), libdb5.3, libldap-2.4-2 (>= 2.4.7), debconf (>= 0.5) | debconf-2.0
+ libc6 (>= 2.14), libdb5.3, libldap-2.4-2 (>= 2.4.7), debconf (>= 0.5) | debconf-2.0
+ iptables, lsb-base (>= 3.0-6), init-system-helpers (>= 1.18~), libc6 (>= 2.14)
+ libc6 (>= 2.14), iptables
+ debconf (>= 0.5) | debconf-2.0, openssl (>= 0.9.8g-9), adduser
+ debconf (>= 0.5) | debconf-2.0, openssl (>= 0.9.8g-9), adduser
+ libc6 (>= 2.15), libcap2 (>= 1:2.10), libconfig9, libwrap0 (>= 7.6-4~), debconf (>= 0.5), init-system-helpers (>= 1.18~), adduser, lsb-base (>= 3.0-6), update-inetd
+ libc6 (>= 2.15), libcap2 (>= 1:2.10), libconfig9, libwrap0 (>= 7.6-4~), debconf (>= 0.5), init-system-helpers (>= 1.18~), adduser, lsb-base (>= 3.0-6), update-inetd
+ libc6 (>= 2.4), libgmp10
+ libc6 (>= 2.2.5), libgmp10
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ libc6 (>= 2.15)
+ libsvn1 (= 1.9.5-1+deb9u2), libapr1 (>= 1.5.0), libaprutil1 (>= 1.3.2+dfsg), libc6 (>= 2.4), libldap-2.4-2 (>= 2.4.7), libsasl2-2
+ libsvn1 (= 1.9.5-1+deb9u1), libapr1 (>= 1.5.0), libaprutil1 (>= 1.3.2+dfsg), libc6 (>= 2.4), libldap-2.4-2 (>= 2.4.7), libsasl2-2
+ libsvn1 (= 1.8.10-6+deb8u6), libapr1 (>= 1.4.8-2~), libaprutil1 (>= 1.2.7+dfsg), libc6 (>= 2.4), libldap-2.4-2 (>= 2.4.7), libsasl2-2
+ libsvn1 (= 1.8.10-6+deb8u5), libapr1 (>= 1.4.8-2~), libaprutil1 (>= 1.2.7+dfsg), libc6 (>= 2.4), libldap-2.4-2 (>= 2.4.7), libsasl2-2
+ libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), libpam-modules, lsb-base
+ libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), libpam-modules
+ libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libpam0g (>= 0.99.7.1), libselinux1 (>= 1.32), libpam-modules
+ libc6, procps
+ libc6, procps
+ libc6 (>= 2.3.2)
+ debconf (>= 0.5) | debconf-2.0, sysvinit-utils (>= 2.86.ds1-62), insserv (>> 1.12.0-10), startpar
+ debconf (>= 0.5) | debconf-2.0, sysvinit-utils (>= 2.86.ds1-62), insserv (>> 1.12.0-10), startpar
+ libc6 (>= 2.14), libselinux1 (>= 1.32), libsepol1 (>= 1.14)
+ initscripts (>= 2.88dsf-13.3), sysv-rc | file-rc | openrc, sysvinit-utils (>= 2.86.ds1-66), libc6 (>= 2.15), libselinux1 (>= 1.32), libsepol1 (>= 2.4), debconf (>= 0.5) | debconf-2.0, debianutils (>= 4)
+ initscripts (>= 2.88dsf-13.3), sysv-rc | file-rc, sysvinit-utils (>= 2.86.ds1-66), libc6 (>= 2.14), libselinux1 (>= 1.32), libsepol1 (>= 1.14), debconf (>= 0.5) | debconf-2.0, debianutils (>= 4)
+ libc6 (>= 2.14), init-system-helpers (>= 1.25~), util-linux (>> 2.28-2~)
+ libc6 (>= 2.14), startpar
+ debconf (>= 0.5) | debconf-2.0, liblocale-gettext-perl, apt, tasksel-data, perl-base (>= 5.14.0-1)
+ debconf (>= 0.5) | debconf-2.0, liblocale-gettext-perl, apt, tasksel-data, perl-base (>= 5.14.0-1)
+ tasksel (= 3.39)
+ tasksel (= 3.33+devuan1.0)
+ libc6 (>= 2.14), libpcap0.8 (>= 1.5.1), libssl1.0.2 (>= 1.0.2d)
+ libc6 (>= 2.14), libpcap0.8 (>= 1.5.1), libssl1.0.0 (>= 1.0.0)
+ libc6 (>= 2.15), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5)
+ libc6 (>= 2.14), libncurses5 (>= 5.5-5~), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.1.1), libtinfo5
+ libc6 (>= 2.14), libtidy5 (= 1:5.2.0-2)
+ libc6 (>= 2.14), libtidy-0.99-0 (>= 20091223cvs-1.4+deb8u1)
+ libc6 (>= 2.4)
+ libc6 (>= 2.3.4)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libgcc1 (>= 1:3.0), libncursesw5 (>= 6), libstdc++6 (>= 5.2), libtinfo5 (>= 6)
+ libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libncursesw5 (>= 5.6+20070908), libstdc++6 (>= 4.6), libtinfo5
+ debconf (>= 0.5) | debconf-2.0
+ debconf (>= 0.5) | debconf-2.0
+ debconf (>= 1.5.19), coreutils (>= 5.91)
+ debconf (>= 1.5.19), coreutils (>= 5.91)
+ libacl1 (>= 2.2.51-8), libblkid1 (>= 2.19.1), libc6 (>= 2.17), libkmod2 (>= 5~), libselinux1 (>= 2.1.9), adduser, libudev1 (= 232-25+deb9u4), lsb-base (>= 3.0-6), util-linux (>= 2.27.1), procps
+ libacl1 (>= 2.2.51-8), libblkid1 (>= 2.19.1), libc6 (>= 2.17), libkmod2 (>= 5~), libselinux1 (>= 2.0.65), libudev1 (= 215-17+deb8u7), adduser, lsb-base (>= 3.0-6), util-linux (>= 2.16), procps
+ iptables, lsb-base (>= 3.0-6), ucf, python3:any (>= 3.3.2-2~), debconf (>= 0.5) | debconf-2.0, init-system-helpers (>= 1.18~)
+ debconf, iptables, ucf, python3:any (>= 3.3.2-2~), python3, debconf (>= 0.5) | debconf-2.0
+ adduser, dns-root-data (>= 2017072601~), openssl, unbound-anchor, init-system-helpers (>= 1.18~), libc6 (>= 2.17), libevent-2.0-5 (>= 2.0.10-stable), libfstrm0 (>= 0.2.0), libprotobuf-c1 (>= 1.0.0), libpython3.5 (>= 3.5.0~b1), libssl1.1 (>= 1.1.0)
+ libc6 (>= 2.15), libevent-2.0-5 (>= 2.0.10-stable), libpython2.7 (>= 2.7), libssl1.0.0 (>= 1.0.0), unbound-anchor, adduser, openssl
+ libc6 (>= 2.17), libexpat1 (>= 2.0.1), libssl1.1 (>= 1.1.0), libunbound2 (>= 1.4.1)
+ libc6 (>= 2.14), libexpat1 (>= 2.0.1), libssl1.0.0 (>= 1.0.0), libunbound2 (>= 1.4.1)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5)
+ libc6 (>= 2.14), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libbz2-1.0, libc6 (>= 2.14)
+ libbz2-1.0, libc6 (>= 2.14)
+ libbz2-1.0, libc6 (>= 2.14)
+ debconf (>= 0.5) | debconf-2.0, libfile-temp-perl, libfile-copy-recursive-perl
+ debconf (>= 0.5) | debconf-2.0, libfile-temp-perl, libfile-copy-recursive-perl
+ libc6 (>= 2.14), libusb-1.0-0 (>= 2:1.0.16), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libusb-1.0-0 (>= 2:1.0.8), zlib1g (>= 1:1.1.4)
+ initscripts (>= 2.88dsf-59.2~), lsb-base (>= 3.0-6), tzdata (>= 2006c-2), sysvinit-utils (>> 2.88dsf-59.1~)
+ uwsgi-core (= 2.0.14+20161117-3+deb9u2)
+ uwsgi-core (= 2.0.7-1+deb8u2), lsb-base, initscripts (>= 2.88dsf-13.3)
+ libc6 (>= 2.14), libcap2 (>= 1:2.10), libjansson4 (>= 2.0.1), libmatheval1 (>= 1.1.3), libpam0g (>= 0.99.7.1), libpcre3, libssl1.1 (>= 1.1.0), libsystemd0, libuuid1 (>= 2.16), libxml2 (>= 2.7.4), libyaml-0-2, libzmq5 (>= 3.2.3+dfsg), zlib1g (>= 1:1.2.0)
+ libc6 (>= 2.14), libcap2 (>= 1:2.10), libjansson4 (>= 2.0.1), libmatheval1 (>= 1.1.3), libpam0g (>= 0.99.7.1), libpcre3 (>= 1:8.35), libssl1.0.0 (>= 1.0.0), libuuid1 (>= 2.16), libxml2 (>= 2.7.4), libyaml-0-2, libzmq3 (>= 3.2.3+dfsg), zlib1g (>= 1:1.2.0)
+ libc6 (>= 2.14), libpython2.7 (>= 2.7), uwsgi-core (= 2.0.14+20161117-3+deb9u2)
+ libc6 (>= 2.14), libpython2.7 (>= 2.7), uwsgi-core (= 2.0.7-1+deb8u2)
+ vim-common (= 2:8.0.0197-4+deb9u1), vim-runtime (= 2:8.0.0197-4+deb9u1), libacl1 (>= 2.2.51-8), libc6 (>= 2.15), libgpm2 (>= 1.20.4), libselinux1 (>= 1.32), libtinfo5 (>= 6)
+ vim-common (= 2:7.4.488-7+deb8u3), vim-runtime (= 2:7.4.488-7+deb8u3), libacl1 (>= 2.2.51-8), libc6 (>= 2.15), libgpm2 (>= 1.20.4), libselinux1 (>= 1.32), libtinfo5
+ vim-common (= 2:7.4.488-7+deb8u2), vim-runtime (= 2:7.4.488-7+deb8u2), libacl1 (>= 2.2.51-8), libc6 (>= 2.15), libgpm2 (>= 1.20.4), libselinux1 (>= 1.32), libtinfo5
+ xxd
+ libc6 (>= 2.3.4)
+ libc6 (>= 2.3.4)
+ python3, python3-virtualenv
+ python3, python3-virtualenv
+ libc6 (>= 2.2.5), iproute2
+ libc6 (>= 2.14), iproute2
+ libc6 (>= 2.15), libgc1c2 (>= 1:7.2d), libgpm2 (>= 1.20.4), libssl1.1 (>= 1.1.0), libtinfo5 (>= 6), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.15), libgc1c2 (>= 1:7.2d), libgpm2 (>= 1.20.4), libssl1.0.0 (>= 1.0.0), libtinfo5, zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libtinfo5 (>= 6)
+ libc6 (>= 2.14), libtinfo5
+ libc6 (>= 2.17), libgnutls30 (>= 3.5.6), libidn11 (>= 1.13), libnettle6, libpcre3, libpsl5 (>= 0.13.0), libuuid1 (>= 2.16), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.17), libgnutls-deb0-28 (>= 3.3.0), libidn11 (>= 1.13), libnettle4, libpsl0 (>= 0.4.0), libuuid1 (>= 2.16), zlib1g (>= 1:1.1.4)
+ libc6 (>= 2.14), libnewt0.52, libpopt0 (>= 1.14), libslang2 (>= 2.2.4)
+ libc6 (>= 2.14), libnewt0.52, libpopt0 (>= 1.14), libslang2 (>= 2.2.4)
+ libc6 (>= 2.15), libidn11 (>= 1.13)
+ libc6 (>= 2.15), libidn11 (>= 1.13)
+ lsb-base (>= 1.3-9ubuntu2)
+ debconf (>= 0.5) | debconf-2.0, lsb-base (>= 1.3-9ubuntu2)
+ libc6 (>= 2.14), libx11-6, libxmu6
+ libc6 (>= 2.14), libx11-6, libxmu6
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libblkid1 (>= 2.17.2), libc6 (>= 2.14), libreadline5 (>= 5.2), libuuid1 (>= 2.16)
+ libblkid1 (>= 2.17.2), libc6 (>= 2.14), libreadline5 (>= 5.2), libuuid1 (>= 2.16)
+ libc6 (>= 2.15), libwrap0 (>= 7.6-4~), netbase, lsb-base (>= 3.0-6)
+ libc6 (>= 2.15), libwrap0 (>= 7.6-4~), netbase, update-inetd
+ sgml-base (>= 1.28), sed (>= 4.1.2-8)
+ sgml-base (>= 1.26+nmu2), sed (>= 4.1.2-8)
+ libc6 (>= 2.17), liblzma5 (>= 5.2.2)
+ libc6 (>= 2.14), liblzma5 (>= 5.1.1alpha+20120614)
+ libc6 (>= 2.14), libjansson4 (>= 2.1), libmagic1 (>= 5.12), libssl1.1 (>= 1.1.0)
+ libc6 (>= 2.14)
+ libc6 (>= 2.2.5), libgomp1 (>= 4.2.1), libjpeg62-turbo (>= 1.3.1), libmagickcore-6.q16-3 (>= 8:6.9.6.8), libmagickwand-6.q16-3 (>= 8:6.9.6.8), libv4l-0 (>= 0.5.0), libzbar0 (= 0.10+doc-10.1)
+ libc6 (>= 2.2.5), libgomp1 (>= 4.2.1), libjpeg62-turbo (>= 1:1.3.1), libmagickcore-6.q16-2 (>= 8:6.8.8.2), libmagickwand-6.q16-2 (>= 8:6.8.8.2), libv4l-0 (>= 0.5.0), libzbar0 (= 0.10+doc-10)
+ libbz2-1.0, libc6 (>= 2.14)
+ libbz2-1.0, libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ libc6 (>= 2.14)
+ zlib1g (= 1:1.2.8.dfsg-5), libc6-dev | libc-dev
+ zlib1g (= 1:1.2.8.dfsg-2+b1), libc6-dev | libc-dev
+ zsh-common (= 5.3.1-4), libc6 (>= 2.15), libcap2 (>= 1:2.10), libtinfo5 (>= 6)
+ zsh-common (= 5.0.7-5), libc6 (>= 2.15), libcap2 (>= 1:2.10), libtinfo5
